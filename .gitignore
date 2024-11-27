@@ -15,6 +15,12 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+# Firebase config files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+android/app/google-services.json
+lib/firebase_options.dart
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -58,3 +64,4 @@ android/app/profile
 android/app/release
 *.iml
 *.log
+
