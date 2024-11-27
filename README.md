@@ -93,7 +93,7 @@ Keys should never be hardcoded or exposed publicly.
 If you discover a vulnerability, please report it via GitHub Issues.
 
 ### License 📝
-This project is licensed under the MIT - - see the [LICENSE](License).
+This project is licensed under the MIT - - see the [LICENSE](li).
 
 ## Acknowledgements 🙏
 - Flutter
