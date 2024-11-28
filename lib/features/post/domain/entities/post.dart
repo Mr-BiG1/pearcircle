@@ -1,4 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:peer_circle/features/post/domain/comment.dart';
 
 class Post {
   final String id;
@@ -8,6 +9,7 @@ class Post {
   final String imageUrl;
   final DateTime timeStamp;
   final List<String> likes;
+  final List<Comment> comments;
 
   Post({
     required this.id,
@@ -17,18 +19,19 @@ class Post {
     required this.text,
     required this.timeStamp,
     required this.likes,
+    required this.comments,
   });
 
   Post copyWith({String? imageUrl}) {
     return Post(
-      id: id,
-      userId: userId,
-      userName: userName,
-      imageUrl: imageUrl ?? this.imageUrl,
-      text: text,
-      timeStamp: timeStamp,
-      likes: likes,
-    );
+        id: id,
+        userId: userId,
+        userName: userName,
+        imageUrl: imageUrl ?? this.imageUrl,
+        text: text,
+        timeStamp: timeStamp,
+        likes: likes,
+        comments: comments);
   }
 
   // convert to josn file so . for storing to the firebase.
@@ -42,12 +45,14 @@ class Post {
       'imageUrl': imageUrl,
       'timestamp': Timestamp.fromDate(timeStamp),
       'likes': likes,
+      'comments': comments.map((comment) => comment.toJson()).toList(),
     };
   }
 
   // convert to json to post
 
   factory Post.fromJson(Map<String, dynamic> json) {
+    final List<Comment> comments = (json['comments'] as List<dynamic>?)?.map((commentJson)=> Comment.fromJson(commentJson)).toList()?? [];
     return Post(
       id: json['id'],
       userId: json['userId'],
@@ -56,6 +61,7 @@ class Post {
       text: json['text'],
       timeStamp: (json['timestamp'] as Timestamp).toDate(),
       likes: List<String>.from(json['likes'] ?? []),
+      comments: comments,
     );
   }
 }

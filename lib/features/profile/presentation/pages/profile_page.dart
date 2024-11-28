@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:peer_circle/features/auth/domain/entities/app_user.dart';
 import 'package:peer_circle/features/auth/presentation/cubits/auth_cubit.dart';
+import 'package:peer_circle/features/post/presentation/components/post_tile.dart';
+import 'package:peer_circle/features/post/presentation/cubits/post_cubits.dart';
+import 'package:peer_circle/features/post/presentation/cubits/post_states.dart';
 import 'package:peer_circle/features/profile/presentation/components/bio_box.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/profile_states.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/progile_cubit.dart';
@@ -21,6 +24,8 @@ class _ProfilePageState extends State<ProfilePage> {
   late final authCubit = context.read<AuthCubit>();
   late final profileCubit = context.read<ProfileCubit>();
 
+// posts count
+  int postCount = 0;
   // current user.
   late AppUser? currentUser = authCubit.currentUser;
   @override
@@ -40,7 +45,7 @@ class _ProfilePageState extends State<ProfilePage> {
         return Scaffold(
           appBar: AppBar(
             title: Center(child: Text(user.name)),
-            foregroundColor: Theme.of(context).colorScheme.primary,
+            foregroundColor: Theme.of(context).colorScheme.secondary,
 
             // edit button to edit the page.
             actions: [
@@ -57,12 +62,16 @@ class _ProfilePageState extends State<ProfilePage> {
           ),
 
           // body
-          body: Column(
+          body: ListView(
             children: [
               // email
-              Text(
-                user.email,
-                style: TextStyle(color: Theme.of(context).colorScheme.primary),
+              Center(
+                
+                child: Text(
+                  user.email,
+                  style:
+                      TextStyle(color: Theme.of(context).colorScheme.secondary),
+                ),
               ),
               const SizedBox(
                 height: 25,
@@ -87,11 +96,9 @@ class _ProfilePageState extends State<ProfilePage> {
                   height: 120,
                   width: 120,
                   decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    image: DecorationImage(image: imageProvider,
-                    fit: BoxFit.cover)
-                  ),
-                  
+                      shape: BoxShape.circle,
+                      image: DecorationImage(
+                          image: imageProvider, fit: BoxFit.cover)),
                 ),
               ),
 
@@ -107,7 +114,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     Text(
                       "Bio",
                       style: TextStyle(
-                          color: Theme.of(context).colorScheme.primary),
+                          color: Theme.of(context).colorScheme.inversePrimary),
                     )
                   ],
                 ),
@@ -127,6 +134,45 @@ class _ProfilePageState extends State<ProfilePage> {
                     )
                   ],
                 ),
+              ),
+
+              //  list of all post by the certain user.
+              BlocBuilder<PostCubit, PostState>(
+                builder: (context, state) {
+                  if (state is PostLoaded) {
+                    final userPosts = state.posts
+                        .where((post) => post.userId == widget.uid)
+                        .toList();
+
+                    postCount = userPosts.length;
+
+                    return ListView.builder(
+                      itemCount: postCount,
+                      physics: const NeverScrollableScrollPhysics(),
+                      shrinkWrap: true,
+                      itemBuilder: (context, Index) {
+                        // get by single post.
+                        final post = userPosts[Index];
+
+                        // returning the post
+
+                        return PostTile(
+                          post: post,
+                          onDeletePressed: () =>
+                              context.read<PostCubit>().deletePost(post.id),
+                        );
+                      },
+                    );
+                  } else if (state is PostLoading) {
+                    return const Center(
+                      child: CircularProgressIndicator(),
+                    );
+                  } else {
+                    return const Center(
+                      child: Text("No posts.."),
+                    );
+                  }
+                },
               ),
             ],
           ),

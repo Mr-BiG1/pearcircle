@@ -1,6 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:peer_circle/features/post/domain/comment.dart';
 import 'package:peer_circle/features/post/domain/repos/post_repo.dart';
 import 'package:peer_circle/features/post/presentation/cubits/post_states.dart';
 import 'package:peer_circle/features/storage/domain/storage_repo.dart';
@@ -69,10 +70,32 @@ class PostCubit extends Cubit<PostState> {
   Future<void> toggleLikePost(String postId, String userId) async {
     try {
       await postRepo.toggleLikePost(postId, userId);
-      //  if im fetching all post again it will force screen to load again . so optimizing the code like it is change the values locale 
+      //  if im fetching all post again it will force screen to load again . so optimizing the code like it is change the values locale
       // fetchAllPost();
     } catch (e) {
       throw Exception("Error on liking post $e");
+    }
+  }
+
+  //  add a new comment
+  Future<void> addComment(String postId, Comment comment) async {
+    try {
+      await postRepo.addComment(postId, comment);
+
+      await fetchAllPost();
+    } catch (e) {
+      throw Exception("Error on commenting  $e");
+    }
+  }
+
+  // delete a comment
+  Future<void> deleteComment(String postId, String commentId) async {
+    try {
+      await postRepo.deleteComment(postId, commentId);
+
+      await fetchAllPost();
+    } catch (e) {
+      throw Exception("Error on deleting comment $e");
     }
   }
 }

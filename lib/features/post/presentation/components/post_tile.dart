@@ -2,11 +2,14 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:peer_circle/features/auth/domain/entities/app_user.dart';
+import 'package:peer_circle/features/auth/presentation/components/mt_textbox.dart';
 import 'package:peer_circle/features/auth/presentation/cubits/auth_cubit.dart';
+import 'package:peer_circle/features/post/domain/comment.dart';
 import 'package:peer_circle/features/post/domain/entities/post.dart';
 import 'package:peer_circle/features/post/presentation/cubits/post_cubits.dart';
 import 'package:peer_circle/features/profile/domain/entities/profile_user.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/progile_cubit.dart';
+import 'package:peer_circle/features/profile/presentation/pages/profile_page.dart';
 
 class PostTile extends StatefulWidget {
   final Post post;
@@ -102,6 +105,56 @@ class _PostTileState extends State<PostTile> {
     });
   }
 
+  // comments
+  final commentTextController = TextEditingController();
+  void openNewCommentBox() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        content: MyTextBox(
+          controller: commentTextController,
+          hintText: "Type a comment",
+          obscureText: false,
+        ),
+        actions: [
+          //  cancel button
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text("Cancel"),
+          ),
+          TextButton(
+            onPressed: () {
+              addComment();
+              () => Navigator.of(context).pop();
+            },
+            child: const Text("Save"),
+          )
+        ],
+      ),
+    );
+  }
+
+  void addComment() {
+    final newComment = Comment(
+      id: DateTime.now().millisecondsSinceEpoch.toString(),
+      postId: widget.post.id,
+      text: commentTextController.text,
+      timeStamp: DateTime.now(),
+      userId: currentUser!.uid,
+      userName: currentUser!.name,
+    );
+
+    if (commentTextController.text.isNotEmpty) {
+      postCubit.addComment(widget.post.id, newComment);
+    }
+  }
+
+  @override
+  void dispose() {
+    commentTextController.dispose();
+    super.dispose();
+  }
+
 // ui
   @override
   Widget build(BuildContext context) {
@@ -110,49 +163,59 @@ class _PostTileState extends State<PostTile> {
       child: Column(
         children: [
           //  tpo section.
-          Padding(
-            padding: const EdgeInsets.all(12.0),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              children: [
-                // profile pic
-                postUser?.profileImage != null
-                    ? CachedNetworkImage(
-                        imageUrl: postUser!.profileImage,
-                        errorWidget: (context, url, error) =>
-                            const Icon(Icons.person),
-                        imageBuilder: (context, ImageProvider) => Container(
-                          width: 40,
-                          height: 40,
-                          decoration: BoxDecoration(
-                            shape: BoxShape.circle,
-                            image: DecorationImage(
-                              image: ImageProvider,
-                              fit: BoxFit.cover,
+          GestureDetector(
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => ProfilePage(
+                  uid: widget.post.userId,
+                ),
+              ),
+            ),
+            child: Padding(
+              padding: const EdgeInsets.all(12.0),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                children: [
+                  // profile pic
+                  postUser?.profileImage != null
+                      ? CachedNetworkImage(
+                          imageUrl: postUser!.profileImage,
+                          errorWidget: (context, url, error) =>
+                              const Icon(Icons.person),
+                          imageBuilder: (context, ImageProvider) => Container(
+                            width: 40,
+                            height: 40,
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle,
+                              image: DecorationImage(
+                                image: ImageProvider,
+                                fit: BoxFit.cover,
+                              ),
                             ),
                           ),
-                        ),
-                      )
-                    : const Icon(Icons.person),
-                const SizedBox(
-                  width: 10,
-                ),
-                // user name.
-                Text(
-                  widget.post.userName,
-                  style: TextStyle(
-                      color: Theme.of(context).colorScheme.inversePrimary,
-                      fontWeight: FontWeight.bold),
-                ),
-                const Spacer(),
-                if (isOwnPost)
-                  (
-                      // delete button
-                      GestureDetector(
-                    onTap: showOptions,
-                    child: const Icon(Icons.delete),
-                  )),
-              ],
+                        )
+                      : const Icon(Icons.person),
+                  const SizedBox(
+                    width: 10,
+                  ),
+                  // user name.
+                  Text(
+                    widget.post.userName,
+                    style: TextStyle(
+                        color: Theme.of(context).colorScheme.inversePrimary,
+                        fontWeight: FontWeight.bold),
+                  ),
+                  const Spacer(),
+                  if (isOwnPost)
+                    (
+                        // delete button
+                        GestureDetector(
+                      onTap: showOptions,
+                      child: const Icon(Icons.delete),
+                    )),
+                ],
+              ),
             ),
           ),
           // getting image
@@ -186,7 +249,7 @@ class _PostTileState extends State<PostTile> {
                           widget.post.likes.contains(currentUser!.uid)
                               ? Icons.favorite
                               : Icons.favorite_border,
-                              color: widget.post.likes.contains(currentUser!.uid)
+                          color: widget.post.likes.contains(currentUser!.uid)
                               ? Colors.red
                               : Theme.of(context).colorScheme.secondary,
                         ),
@@ -196,12 +259,16 @@ class _PostTileState extends State<PostTile> {
                   ),
                 ),
                 // comment button
-                const Icon(Icons.comment),
+                GestureDetector(child: const Icon(Icons.comment)),
                 const Text("0"),
 
                 // time Stamp
 
-                Text(widget.post.timeStamp.toString(),style: TextStyle(color: Theme.of(context).colorScheme.secondary),)
+                Text(
+                  widget.post.timeStamp.toString(),
+                  style:
+                      TextStyle(color: Theme.of(context).colorScheme.secondary),
+                )
               ],
             ),
           )

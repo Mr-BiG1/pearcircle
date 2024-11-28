@@ -39,7 +39,7 @@ class FirebaseProfileRepo implements ProfileRepo {
     //   return null;
     // }
 
-    // gpt version
+    // GT version
     try {
       // Get user document from Firestore.
       final userDoc =
@@ -70,8 +70,6 @@ class FirebaseProfileRepo implements ProfileRepo {
       // Return null if the document doesn't exist or has no data.
       return null;
     } catch (e) {
-      // Log or handle the error appropriately.
-      print("Error fetching user profile: $e");
       return null;
     }
   }
@@ -110,7 +108,7 @@ class FirebaseProfileRepo implements ProfileRepo {
 
           // if already a follower
           if (currentFollowing.contains(targetUid)) {
-            // unfollow
+            // unFollow
             await firebaseFirestore.collection('users').doc(currentUid).update({
               'following': FieldValue.arrayRemove([targetUid])
             });
@@ -129,6 +127,8 @@ class FirebaseProfileRepo implements ProfileRepo {
           }
         }
       }
-    } catch (e) {}
+    } catch (e) {
+
+    }
   }
 }

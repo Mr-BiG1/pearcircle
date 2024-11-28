@@ -70,14 +70,15 @@ class _UploadPostPageState extends State<UploadPostPage> {
 
     // creating post
     final newPost = Post(
-        id: DateTime.now().millisecondsSinceEpoch.toString(),
-        userId: currentUser!.uid,
-        userName: currentUser!.name,
-        imageUrl: '',
-        text: textController.text,
-        timeStamp: DateTime.now(),
-        likes: [],
-        );
+      id: DateTime.now().millisecondsSinceEpoch.toString(),
+      userId: currentUser!.uid,
+      userName: currentUser!.name,
+      imageUrl: '',
+      text: textController.text,
+      timeStamp: DateTime.now(),
+      likes: [],
+      comments: [],
+    );
 
     // post
 
@@ -121,7 +122,7 @@ class _UploadPostPageState extends State<UploadPostPage> {
         title: const Text("Create new post"),
         foregroundColor: Theme.of(context).colorScheme.primary,
         actions: [
-          // upload 
+          // upload
           IconButton(onPressed: uploadPost, icon: const Icon(Icons.upload))
         ],
       ),
