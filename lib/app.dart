@@ -9,6 +9,8 @@ import 'package:peer_circle/features/post/data/firebase_post_repo.dart';
 import 'package:peer_circle/features/post/presentation/cubits/post_cubits.dart';
 import 'package:peer_circle/features/profile/data/firebase_profile_repo.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/progile_cubit.dart';
+import 'package:peer_circle/features/search/data/firebase_search_repo.dart';
+import 'package:peer_circle/features/search/presentation/cubits/search_cubit.dart';
 import 'package:peer_circle/features/storage/data/firebase_storage_repo.dart';
 import 'package:peer_circle/features/theams/light_mode.dart';
 
@@ -28,6 +30,9 @@ class MyApp extends StatelessWidget {
   // post  repo
 
   final firebasePostRepo = FirebasePostRepo();
+
+  // search repo
+  final firebaseSearchRepo = FirebaseSearchRepo();
   MyApp({
     super.key,
   });
@@ -53,14 +58,18 @@ class MyApp extends StatelessWidget {
             create: (context) => PostCubit(
                   postRepo: firebasePostRepo,
                   storageRepo: firebaseStorageRepo,
-                ))
+                )),
+        // search Cubit.
+        BlocProvider<SearchCubit>(
+          create: (context) => SearchCubit(searchRepo: firebaseSearchRepo),
+        )
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         theme: lightMode,
         home: BlocConsumer<AuthCubit, AuthStates>(
           builder: (context, authState) {
-            print(authState); 
+            print(authState);
             if (authState is Unauthenticated) {
               return const AuthPages();
             }

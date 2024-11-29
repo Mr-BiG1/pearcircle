@@ -9,6 +9,7 @@ import 'package:peer_circle/features/post/presentation/cubits/post_states.dart';
 import 'package:peer_circle/features/profile/presentation/components/bio_box.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/profile_states.dart';
 import 'package:peer_circle/features/profile/presentation/cubits/progile_cubit.dart';
+import 'package:peer_circle/features/profile/presentation/follow_button.dart';
 import 'package:peer_circle/features/profile/presentation/pages/edit_profile_page.dart';
 
 class ProfilePage extends StatefulWidget {
@@ -34,8 +35,23 @@ class _ProfilePageState extends State<ProfilePage> {
     profileCubit.fetchUserprofile(widget.uid);
   }
 
+  void followButtonPressed() {
+    final profileState = profileCubit.state;
+
+    if (profileState is! ProfileLoaded) {
+      return;
+    }
+
+    final profileUser = profileState.profilUser;
+    final isFollowing = profileUser.followers.contains(currentUser!.uid);
+
+    profileCubit.toggleFlow(currentUser!.uid, widget.uid);
+  }
+
+// ui
   @override
   Widget build(BuildContext context) {
+    bool isOwnPost = (widget.uid == currentUser!.uid);
     return BlocBuilder<ProfileCubit, ProfileStates>(builder: (context, state) {
       // loaded
       if (state is ProfileLoaded) {
@@ -49,15 +65,16 @@ class _ProfilePageState extends State<ProfilePage> {
 
             // edit button to edit the page.
             actions: [
-              IconButton(
-                  onPressed: () => Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => EditProfilePage(
-                          user: user,
-                        ),
-                      )),
-                  icon: const Icon(Icons.settings))
+              if (isOwnPost)
+                IconButton(
+                    onPressed: () => Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => EditProfilePage(
+                            user: user,
+                          ),
+                        )),
+                    icon: const Icon(Icons.settings))
             ],
           ),
 
@@ -66,7 +83,6 @@ class _ProfilePageState extends State<ProfilePage> {
             children: [
               // email
               Center(
-                
                 child: Text(
                   user.email,
                   style:
@@ -103,9 +119,14 @@ class _ProfilePageState extends State<ProfilePage> {
               ),
 
               const SizedBox(
-                height: 20,
+                height: 25,
               ),
-
+              // follow button
+              if (!isOwnPost)
+                FollowButton(
+                  isFollowing: user.followers.contains(currentUser!.uid),
+                  onPressed: followButtonPressed,
+                ),
               // bio
               Padding(
                 padding: const EdgeInsets.only(left: 25.0),

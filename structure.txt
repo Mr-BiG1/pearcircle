@@ -1,0 +1,3597 @@
+Folder PATH listing for volume OS
+Volume serial number is A025-8BF3
+C:.
+¦   .flutter-plugins
+¦   .flutter-plugins-dependencies
+¦   .gitignore
+¦   .metadata
+¦   analysis_options.yaml
+¦   devtools_options.yaml
+¦   LICENSE
+¦   peer_circle.iml
+¦   pubspec.lock
+¦   pubspec.yaml
+¦   README.md
+¦   structure.txt
+¦   
++---.dart_tool
+¦   ¦   package_config.json
+¦   ¦   package_config_subset
+¦   ¦   version
+¦   ¦   
+¦   +---dartpad
+¦   ¦       web_plugin_registrant.dart
+¦   ¦       
+¦   +---extension_discovery
+¦   ¦       devtools.json
+¦   ¦       vs_code.json
+¦   ¦       
+¦   +---flutter_build
+¦       ¦   dart_plugin_registrant.dart
+¦       ¦   
+¦       +---1bf5d875c7d8b743c3e7e10e7c6300bd
+¦       ¦       .filecache
+¦       ¦       app.dill
+¦       ¦       debug_android_application.stamp
+¦       ¦       flutter_assets.d
+¦       ¦       gen_dart_plugin_registrant.stamp
+¦       ¦       gen_localizations.stamp
+¦       ¦       kernel_snapshot.stamp
+¦       ¦       kernel_snapshot_native_assets.stamp
+¦       ¦       kernel_snapshot_program.d
+¦       ¦       kernel_snapshot_program.stamp
+¦       ¦       native_assets.d
+¦       ¦       native_assets.dill
+¦       ¦       native_assets.stamp
+¦       ¦       native_assets.yaml
+¦       ¦       outputs.json
+¦       ¦       program.dill
+¦       ¦       
+¦       +---b0802fe9ffa8c5ff819ad99aad5e729c
+¦               .filecache
+¦               app.dill
+¦               debug_android_application.stamp
+¦               flutter_assets.d
+¦               gen_dart_plugin_registrant.stamp
+¦               gen_localizations.stamp
+¦               kernel_snapshot.stamp
+¦               kernel_snapshot_native_assets.stamp
+¦               kernel_snapshot_program.d
+¦               kernel_snapshot_program.stamp
+¦               native_assets.d
+¦               native_assets.dill
+¦               native_assets.stamp
+¦               native_assets.yaml
+¦               outputs.json
+¦               program.dill
+¦               
++---.idea
+¦   ¦   modules.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---libraries
+¦   ¦       Dart_SDK.xml
+¦   ¦       KotlinJavaRuntime.xml
+¦   ¦       
+¦   +---runConfigurations
+¦           main_dart.xml
+¦           
++---.vscode
+¦       settings.json
+¦       
++---android
+¦   ¦   .gitignore
+¦   ¦   build.gradle
+¦   ¦   gradle.properties
+¦   ¦   gradlew
+¦   ¦   gradlew.bat
+¦   ¦   local.properties
+¦   ¦   peer_circle_android.iml
+¦   ¦   settings.gradle
+¦   ¦   
+¦   +---.gradle
+¦   ¦   ¦   file-system.probe
+¦   ¦   ¦   
+¦   ¦   +---8.3
+¦   ¦   ¦   ¦   gc.properties
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---checksums
+¦   ¦   ¦   ¦       checksums.lock
+¦   ¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---dependencies-accessors
+¦   ¦   ¦   ¦       dependencies-accessors.lock
+¦   ¦   ¦   ¦       gc.properties
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---executionHistory
+¦   ¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---fileChanges
+¦   ¦   ¦   ¦       last-build.bin
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---fileHashes
+¦   ¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---vcsMetadata
+¦   ¦   +---buildOutputCleanup
+¦   ¦   ¦       buildOutputCleanup.lock
+¦   ¦   ¦       cache.properties
+¦   ¦   ¦       outputFiles.bin
+¦   ¦   ¦       
+¦   ¦   +---kotlin
+¦   ¦   ¦   +---errors
+¦   ¦   ¦   +---sessions
+¦   ¦   +---vcs-1
+¦   ¦           gc.properties
+¦   ¦           
+¦   +---app
+¦   ¦   ¦   build.gradle
+¦   ¦   ¦   google-services.json
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦       +---debug
+¦   ¦       ¦       AndroidManifest.xml
+¦   ¦       ¦       
+¦   ¦       +---main
+¦   ¦       ¦   ¦   AndroidManifest.xml
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---java
+¦   ¦       ¦   ¦   +---io
+¦   ¦       ¦   ¦       +---flutter
+¦   ¦       ¦   ¦           +---plugins
+¦   ¦       ¦   ¦                   GeneratedPluginRegistrant.java
+¦   ¦       ¦   ¦                   
+¦   ¦       ¦   +---kotlin
+¦   ¦       ¦   ¦   +---com
+¦   ¦       ¦   ¦       +---example
+¦   ¦       ¦   ¦           +---peer_circle
+¦   ¦       ¦   ¦                   MainActivity.kt
+¦   ¦       ¦   ¦                   
+¦   ¦       ¦   +---res
+¦   ¦       ¦       +---drawable
+¦   ¦       ¦       ¦       launch_background.xml
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---drawable-v21
+¦   ¦       ¦       ¦       launch_background.xml
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---mipmap-hdpi
+¦   ¦       ¦       ¦       ic_launcher.png
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---mipmap-mdpi
+¦   ¦       ¦       ¦       ic_launcher.png
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---mipmap-xhdpi
+¦   ¦       ¦       ¦       ic_launcher.png
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---mipmap-xxhdpi
+¦   ¦       ¦       ¦       ic_launcher.png
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---mipmap-xxxhdpi
+¦   ¦       ¦       ¦       ic_launcher.png
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---values
+¦   ¦       ¦       ¦       styles.xml
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---values-night
+¦   ¦       ¦               styles.xml
+¦   ¦       ¦               
+¦   ¦       +---profile
+¦   ¦               AndroidManifest.xml
+¦   ¦               
+¦   +---gradle
+¦       +---wrapper
+¦               gradle-wrapper.jar
+¦               gradle-wrapper.properties
+¦               
++---build
+¦   ¦   cache.dill.track.dill
+¦   ¦   
+¦   +---3db5caea67711567d51734410760ab52
+¦   ¦       gen_dart_plugin_registrant.stamp
+¦   ¦       gen_localizations.stamp
+¦   ¦       _composite.stamp
+¦   ¦       
+¦   +---app
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---google-services
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       ¦       +---values
+¦   ¦   ¦       ¦               values.xml
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aar_metadata_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---apk_ide_redirect_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           redirect.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---app_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           app-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---flutter_assets
+¦   ¦   ¦   ¦           ¦   AssetManifest.bin
+¦   ¦   ¦   ¦           ¦   AssetManifest.json
+¦   ¦   ¦   ¦           ¦   FontManifest.json
+¦   ¦   ¦   ¦           ¦   isolate_snapshot_data
+¦   ¦   ¦   ¦           ¦   kernel_blob.bin
+¦   ¦   ¦   ¦           ¦   NOTICES.Z
+¦   ¦   ¦   ¦           ¦   vm_snapshot_data
+¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦           +---fonts
+¦   ¦   ¦   ¦           ¦       MaterialIcons-Regular.otf
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---packages
+¦   ¦   ¦   ¦           ¦   +---cupertino_icons
+¦   ¦   ¦   ¦           ¦       +---assets
+¦   ¦   ¦   ¦           ¦               CupertinoIcons.ttf
+¦   ¦   ¦   ¦           ¦               
+¦   ¦   ¦   ¦           +---shaders
+¦   ¦   ¦   ¦                   ink_sparkle.frag
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---compatible_screen_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_and_runtime_not_namespaced_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compressed_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---assets
+¦   ¦   ¦   ¦               +---flutter_assets
+¦   ¦   ¦   ¦                   ¦   AssetManifest.bin.jar
+¦   ¦   ¦   ¦                   ¦   AssetManifest.json.jar
+¦   ¦   ¦   ¦                   ¦   FontManifest.json.jar
+¦   ¦   ¦   ¦                   ¦   isolate_snapshot_data.jar
+¦   ¦   ¦   ¦                   ¦   kernel_blob.bin.jar
+¦   ¦   ¦   ¦                   ¦   NOTICES.Z.jar
+¦   ¦   ¦   ¦                   ¦   vm_snapshot_data.jar
+¦   ¦   ¦   ¦                   ¦   
+¦   ¦   ¦   ¦                   +---fonts
+¦   ¦   ¦   ¦                   ¦       MaterialIcons-Regular.otf.jar
+¦   ¦   ¦   ¦                   ¦       
+¦   ¦   ¦   ¦                   +---packages
+¦   ¦   ¦   ¦                   ¦   +---cupertino_icons
+¦   ¦   ¦   ¦                   ¦       +---assets
+¦   ¦   ¦   ¦                   ¦               CupertinoIcons.ttf.jar
+¦   ¦   ¦   ¦                   ¦               
+¦   ¦   ¦   ¦                   +---shaders
+¦   ¦   ¦   ¦                           ink_sparkle.frag.jar
+¦   ¦   ¦   ¦                           
+¦   ¦   ¦   +---data_binding_layout_info_type_merge
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---desugar_graph
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---currentProject
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_0
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_1
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_2
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_3
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_4
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_5
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_6
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_7
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_8
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---dirs_bucket_9
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_0
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_1
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_2
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_3
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_4
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_5
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_6
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_7
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_8
+¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦           ¦   +---jar_87a811d49d4994f06b37b6ee2237de259376eee8aa73ee1a652df8a862c68587_bucket_9
+¦   ¦   ¦   ¦           ¦           graph.bin
+¦   ¦   ¦   ¦           ¦           
+¦   ¦   ¦   ¦           +---externalLibs
+¦   ¦   ¦   ¦           +---mixedScopes
+¦   ¦   ¦   ¦           +---otherProjects
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_369b6094d24a74853efdc979398415cffe9222c4716c946b20a11bf0e156d8c0_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_3eaef9dc862a83df08c88b5169791a6db3e9fbfdee1c15d91e1f1920d646620d_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_9c6bf96b9932abb2b97289cd1b5a4948d07eeaf3a70ebcde78d7a25a188999ac_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_aab201f0ee3a52c193b5b3de372e5a7c4d1b3a602dd75b4e1a9ae636e37acb64_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_b64ce8b978ab0ec1eb74ba94db01fb7fb9b72d5e7948387e3752835508a94333_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_c3d31571bbaa6f6ce79302e9b78af12802aa6ef48a38b0a329175a28a82e5c65_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_d0ce74fc72dea0c144604103dc44b15da6c1d26531a1a2319b75a7bd801068d6_bucket_9
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_0
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_1
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_2
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_3
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_4
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_5
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_6
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_7
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_8
+¦   ¦   ¦   ¦               ¦       graph.bin
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---jar_efe90f47457966dd69205e4f5339803ad3c9fd36eb806c028afbc9a55d1ba6b6_bucket_9
+¦   ¦   ¦   ¦                       graph.bin
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---dex
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeExtDexDebug
+¦   ¦   ¦   ¦       ¦       classes.dex
+¦   ¦   ¦   ¦       ¦       classes2.dex
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mergeLibDexDebug
+¦   ¦   ¦   ¦       ¦   +---0
+¦   ¦   ¦   ¦       ¦   ¦       classes.dex
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---1
+¦   ¦   ¦   ¦       ¦   +---10
+¦   ¦   ¦   ¦       ¦   +---11
+¦   ¦   ¦   ¦       ¦   +---12
+¦   ¦   ¦   ¦       ¦   +---13
+¦   ¦   ¦   ¦       ¦   +---14
+¦   ¦   ¦   ¦       ¦   +---15
+¦   ¦   ¦   ¦       ¦   +---2
+¦   ¦   ¦   ¦       ¦   +---3
+¦   ¦   ¦   ¦       ¦   +---4
+¦   ¦   ¦   ¦       ¦   +---5
+¦   ¦   ¦   ¦       ¦   +---6
+¦   ¦   ¦   ¦       ¦   +---7
+¦   ¦   ¦   ¦       ¦   +---8
+¦   ¦   ¦   ¦       ¦   +---9
+¦   ¦   ¦   ¦       +---mergeProjectDexDebug
+¦   ¦   ¦   ¦           +---0
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---1
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---10
+¦   ¦   ¦   ¦           +---11
+¦   ¦   ¦   ¦           +---12
+¦   ¦   ¦   ¦           +---13
+¦   ¦   ¦   ¦           +---14
+¦   ¦   ¦   ¦           +---15
+¦   ¦   ¦   ¦           +---2
+¦   ¦   ¦   ¦           +---3
+¦   ¦   ¦   ¦           +---4
+¦   ¦   ¦   ¦           +---5
+¦   ¦   ¦   ¦           +---6
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---7
+¦   ¦   ¦   ¦           +---8
+¦   ¦   ¦   ¦           +---9
+¦   ¦   ¦   +---dex_archive_input_jar_hashes
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           out
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---dex_number_of_buckets_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           out
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---duplicate_classes_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---external_file_lib_dex_archives
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---external_libs_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---external_libs_dex_archive_with_artifact_transforms
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---flutter
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       ¦   .last_build_id
+¦   ¦   ¦   ¦       ¦   flutter_build.d
+¦   ¦   ¦   ¦       ¦   libs.jar
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---flutter_assets
+¦   ¦   ¦   ¦           ¦   AssetManifest.bin
+¦   ¦   ¦   ¦           ¦   AssetManifest.json
+¦   ¦   ¦   ¦           ¦   FontManifest.json
+¦   ¦   ¦   ¦           ¦   isolate_snapshot_data
+¦   ¦   ¦   ¦           ¦   kernel_blob.bin
+¦   ¦   ¦   ¦           ¦   NOTICES.Z
+¦   ¦   ¦   ¦           ¦   vm_snapshot_data
+¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦           +---fonts
+¦   ¦   ¦   ¦           ¦       MaterialIcons-Regular.otf
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---packages
+¦   ¦   ¦   ¦           ¦   +---cupertino_icons
+¦   ¦   ¦   ¦           ¦       +---assets
+¦   ¦   ¦   ¦           ¦               CupertinoIcons.ttf
+¦   ¦   ¦   ¦           ¦               
+¦   ¦   ¦   ¦           +---shaders
+¦   ¦   ¦   ¦                   ink_sparkle.frag
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦   ¦   ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦   ¦   ¦   merger.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---merged.dir
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-af
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-af.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-am
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-am.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ar
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ar.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-as
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-as.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-az
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-az.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-b+sr+Latn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-b+sr+Latn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-be
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-be.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bg
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bg.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bs
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bs.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ca
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ca.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-cs
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-cs.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-da
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-da.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-de
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-de.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-el
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-el.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rAU
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rAU.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rCA
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rCA.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rGB
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rGB.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rIN
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rIN.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rXC
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rXC.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-es
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-es.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-es-rUS
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-es-rUS.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-et
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-et.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-eu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-eu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fa
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fa.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fr-rCA
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fr-rCA.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-gl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-gl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-gu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-gu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hy
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hy.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-in
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-in.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-is
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-is.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-it
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-it.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-iw
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-iw.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ja
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ja.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ka
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ka.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-kk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-kk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-km
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-km.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-kn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-kn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ko
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ko.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ky
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ky.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lo
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lo.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lt
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lt.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lv
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lv.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ml.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ms
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ms.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-my
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-my.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-nb
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-nb.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ne
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ne.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-night-v8
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-night-v8.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-nl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-nl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-or
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-or.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pa
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pa.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt-rBR
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt-rBR.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt-rPT
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt-rPT.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ro
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ro.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ru
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ru.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-si
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-si.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sq
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sq.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sv
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sv.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sw
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sw.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ta
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ta.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-te
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-te.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-th
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-th.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-tl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-tl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-tr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-tr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-uk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-uk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ur
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ur.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-uz
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-uz.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v21
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v21.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-vi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-vi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-watch-v20
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-watch-v20.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rCN
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rCN.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rHK
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rHK.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rTW
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rTW.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zu
+¦   ¦   ¦   ¦   ¦   ¦   ¦           values-zu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   ¦   +---stripped.dir
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       ¦   +---values
+¦   ¦   ¦   ¦   ¦       ¦   ¦       values.xml
+¦   ¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦   ¦       ¦   +---values-night-v8
+¦   ¦   ¦   ¦   ¦       ¦           values-night-v8.xml
+¦   ¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   ¦           +8_1xkph2rnU4O97jUIwnHa8s6A=
+¦   ¦   ¦   ¦   ¦           +O8SWdva7++ZCZAhP2B51IDN8fY=
+¦   ¦   ¦   ¦   ¦           1pX8haKlflsAS_49eMTM7Ar4EuE=
+¦   ¦   ¦   ¦   ¦           1XhrKk2_8ieCKiY8quyCKkIS2KY=
+¦   ¦   ¦   ¦   ¦           2mQwLgJA3n5rMw6BsEy5yggzQ50=
+¦   ¦   ¦   ¦   ¦           3uEjSWE7eyIg43T7AVpoqq3w_nk=
+¦   ¦   ¦   ¦   ¦           5HhhdmfWI+iCa7kdQZSrKYMo5gw=
+¦   ¦   ¦   ¦   ¦           5MUMlCfC5RqN5KzAUENriNbQFCI=
+¦   ¦   ¦   ¦   ¦           5yLM0Pne9IaM0GQuVsMeE26Anpg=
+¦   ¦   ¦   ¦   ¦           63unh13Fw6tbamhPvK4ZpAY4ZQ8=
+¦   ¦   ¦   ¦   ¦           6YAafYv+RJozjh8IKV5zWvwMe7o=
+¦   ¦   ¦   ¦   ¦           78k8AbP6WLd+bhxfExlm2FyRCck=
+¦   ¦   ¦   ¦   ¦           79sQanvpO8QOESAIbrY89INYaJU=
+¦   ¦   ¦   ¦   ¦           8qXDXu_xXucbaT+JHeDm28a+FZE=
+¦   ¦   ¦   ¦   ¦           98Dk73TXAr_U36co+sWUZJbrMyk=
+¦   ¦   ¦   ¦   ¦           9zkCobtbUzUtKf7PQFrSKt3M2Yo=
+¦   ¦   ¦   ¦   ¦           AMuH89g+xkwF6UTlXJqhiRhLaOA=
+¦   ¦   ¦   ¦   ¦           aSlBy+ZEf6nH5N97v1hxrXjecxs=
+¦   ¦   ¦   ¦   ¦           ATGsBgu6fAYjoiKIlBTlQOHnfXA=
+¦   ¦   ¦   ¦   ¦           b8QOXxnzxydMrBsoJHewie6R_OA=
+¦   ¦   ¦   ¦   ¦           bG252Go7LsJaGLNSmGOUGCgPjHc=
+¦   ¦   ¦   ¦   ¦           bM3nNJnO09vZ+DvW4sE1VmpO0Hs=
+¦   ¦   ¦   ¦   ¦           Bq0omofiyx_RMW+6eGYiLBHBDNQ=
+¦   ¦   ¦   ¦   ¦           bvPVnJ9Rn58+M+03HLeXcFOkjTk=
+¦   ¦   ¦   ¦   ¦           cMkGj14IWOZRVF90OnAjdJ8mPqM=
+¦   ¦   ¦   ¦   ¦           cza0Vg_jz1y+qeEkI_YicbHOoGg=
+¦   ¦   ¦   ¦   ¦           CzVo70PncSojyTTofSJOxzMZF7A=
+¦   ¦   ¦   ¦   ¦           D0kalFz6CswR5Bq4Vwj30n4AAw8=
+¦   ¦   ¦   ¦   ¦           DJet1RTWsSZNmK5U744aXqMxcDc=
+¦   ¦   ¦   ¦   ¦           dokoTr2koJORVl119G_ufu9M4gU=
+¦   ¦   ¦   ¦   ¦           DPdPLJhsb1s2wtpd3ZP81w778bE=
+¦   ¦   ¦   ¦   ¦           DTeJZpV+GDGrDfpQXjAMQU0azfQ=
+¦   ¦   ¦   ¦   ¦           EFyepHbDqn4RAoqbhHISCLTDmMg=
+¦   ¦   ¦   ¦   ¦           Esi8WwX3Q0W67V_nx3EWVYMeTCg=
+¦   ¦   ¦   ¦   ¦           EZRey60FxBBmlVVjtHCwhARKEy0=
+¦   ¦   ¦   ¦   ¦           f4DVb9iSNpZIooYhy+Y9MqUCxvw=
+¦   ¦   ¦   ¦   ¦           FDCaUPvSXwW0w+AE0VcoYGNAUcY=
+¦   ¦   ¦   ¦   ¦           FnLTi7keiMPu0fZ5J4IzaKgqVkQ=
+¦   ¦   ¦   ¦   ¦           fNS1ojStCLn7XvAuDgE7REpINBQ=
+¦   ¦   ¦   ¦   ¦           fWzxcM_4oqLm0SxXEWtLWoF198c=
+¦   ¦   ¦   ¦   ¦           g34UZ5tcvN099dovYNNiohOSrvE=
+¦   ¦   ¦   ¦   ¦           ggEr9S0ALNIQpaARrX8Y5iB0xuA=
+¦   ¦   ¦   ¦   ¦           Gy3PuMjO47JPVsVnoO3xe2u_YrI=
+¦   ¦   ¦   ¦   ¦           H9HoFz6B_a4m2AVv72H5ONfzPKo=
+¦   ¦   ¦   ¦   ¦           HI_Bm0WBxpElsFzqI7+nu69sXb8=
+¦   ¦   ¦   ¦   ¦           HmeUUYF2YD9JDRwltbk9j0cmvHo=
+¦   ¦   ¦   ¦   ¦           hRCPauq4uUP8Lhktc45VoFz1HRQ=
+¦   ¦   ¦   ¦   ¦           HxY5nCDeEUHMUd4YXU1ykzIWGs4=
+¦   ¦   ¦   ¦   ¦           i6pn94v42levIn8oZ3mNczgRNs0=
+¦   ¦   ¦   ¦   ¦           iBMH_virGjzSVVbpbKuDRD7w00I=
+¦   ¦   ¦   ¦   ¦           il0UNHqi_GHX5EfNnxmwzqDnjnk=
+¦   ¦   ¦   ¦   ¦           JSAD+NTOkH+Ee3eym3XoiX5IG4A=
+¦   ¦   ¦   ¦   ¦           Jtf54wi6mfL9RnXN7OPmIkafV9Q=
+¦   ¦   ¦   ¦   ¦           K+k0GUwS7OSDka8Tln49C4jAls4=
+¦   ¦   ¦   ¦   ¦           k71tBfxPoi8smzMAaGbwZMOYZwU=
+¦   ¦   ¦   ¦   ¦           kO9QheubyivNLzsJNJVnzok+9LM=
+¦   ¦   ¦   ¦   ¦           kQrdFfr87DE8GZBrtMuJS6gH_PQ=
+¦   ¦   ¦   ¦   ¦           KYPFOcpkTuiIpvAEKwpQBbd5sxg=
+¦   ¦   ¦   ¦   ¦           Kyzr8Tw99bsVqkH4CCPCn6vSR_Y=
+¦   ¦   ¦   ¦   ¦           l1bolFpQn82QTjXoxav0peRzxZs=
+¦   ¦   ¦   ¦   ¦           LIoh_QrlyOzR7YYDl2W4MLkuX0E=
+¦   ¦   ¦   ¦   ¦           MBqggd9z3NeoL+pGjuCFb74uE4I=
+¦   ¦   ¦   ¦   ¦           mfyRnM6km86xnC99ZSQLIl1pd0A=
+¦   ¦   ¦   ¦   ¦           MYp3EoL56r8NrJQWy_xFRgSfq6s=
+¦   ¦   ¦   ¦   ¦           nqkn_2AobxupzV_cwagF2iI9Jp8=
+¦   ¦   ¦   ¦   ¦           NqPq_3V8AfrZ8wFbaSYQs7X6KT0=
+¦   ¦   ¦   ¦   ¦           OchzKN+wbHXm8cayyVkrK7_NsR8=
+¦   ¦   ¦   ¦   ¦           oQFVI0MUiiOoaIZi1wjQOLIBd6I=
+¦   ¦   ¦   ¦   ¦           Oz2gX6eKx4EJLCHctifOm2XE82U=
+¦   ¦   ¦   ¦   ¦           QBjl+spK2SbU6BInipUhT0lXZd0=
+¦   ¦   ¦   ¦   ¦           QmkItFWTaK2g3iH2t2+ziA0hWao=
+¦   ¦   ¦   ¦   ¦           R8ehxG_lRL2RKtr1suuDeh7qL3E=
+¦   ¦   ¦   ¦   ¦           Rra69Sgd8wUra9ecind+P_YkwNo=
+¦   ¦   ¦   ¦   ¦           s8tJrxwjfmy4pIuwr7iCbcWMhws=
+¦   ¦   ¦   ¦   ¦           S9wu41UV1HHVhJHleDsh0g8TGMQ=
+¦   ¦   ¦   ¦   ¦           SHcUYAEUssT6MOcFKGzFAA6OLgg=
+¦   ¦   ¦   ¦   ¦           SoND1mewuDziKfiKM2GKepKPQoc=
+¦   ¦   ¦   ¦   ¦           TaY_3K3MNOgZRIBrNn_vf6_0ZzY=
+¦   ¦   ¦   ¦   ¦           T_cPLru2CIcNBrC+8Rz8K58tWtE=
+¦   ¦   ¦   ¦   ¦           U+U_Bwh86GdaFvE0oQymYPoBuhg=
+¦   ¦   ¦   ¦   ¦           U6tQsybPiXog3NQiGA_39IcM1yo=
+¦   ¦   ¦   ¦   ¦           um450QUss3GrrChIVIHilT7bT3c=
+¦   ¦   ¦   ¦   ¦           VgCnGijOUJbF1F7ahNkfg2kX5i0=
+¦   ¦   ¦   ¦   ¦           vQ6SNyUK0Sl3EVw_w4GCBYObJI8=
+¦   ¦   ¦   ¦   ¦           vtqB573Yj9joB_MYIyxiOhUv+xA=
+¦   ¦   ¦   ¦   ¦           vxU03pnlPtCo9z_Mmc_wj3qNdis=
+¦   ¦   ¦   ¦   ¦           xlQOFLbiv1ig36cRKUCI__4Sw9Y=
+¦   ¦   ¦   ¦   ¦           xOmqJD60lafXs06cAeDpiqNrb_c=
+¦   ¦   ¦   ¦   ¦           XWvFMqeBHVTLjhQBIqWlMIAIS8U=
+¦   ¦   ¦   ¦   ¦           yji7hvC0g_OkKM1AHsOtR88a13Y=
+¦   ¦   ¦   ¦   ¦           yKPNzS70UEFiIMzugQ5C29DeCw0=
+¦   ¦   ¦   ¦   ¦           ZXluKO6w0zVdST0H8YZTXbKFUBY=
+¦   ¦   ¦   ¦   ¦           ZZQ27R8YQv0g2_4kzxymbEVudjc=
+¦   ¦   ¦   ¦   ¦           _EsC4LYhCkzAvj1oxlsMMeAxhUE=
+¦   ¦   ¦   ¦   ¦           _ij7_kEvVU35jNsHyY5kiFMVnIM=
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebug
+¦   ¦   ¦   ¦       +---tmp
+¦   ¦   ¦   ¦           +---debug
+¦   ¦   ¦   ¦               ¦   dex-renamer-state.txt
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---zip-cache
+¦   ¦   ¦   ¦                       androidResources
+¦   ¦   ¦   ¦                       javaResources0
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                           GeneratedPluginRegistrant.class
+¦   ¦   ¦   ¦                           
+¦   ¦   ¦   +---java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦           ¦   +---example
+¦   ¦   ¦   ¦           ¦       +---peer_circle
+¦   ¦   ¦   ¦           +---META-INF
+¦   ¦   ¦   ¦                   app_debug.kotlin_module
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           base.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_native_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   ¦               +---arm64-v8a
+¦   ¦   ¦   ¦               ¦       libflutter.so
+¦   ¦   ¦   ¦               ¦       libVkLayer_khronos_validation.so
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---x86
+¦   ¦   ¦   ¦               ¦       libflutter.so
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---x86_64
+¦   ¦   ¦   ¦                       libflutter.so
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---merged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           drawable-v21_launch_background.xml.flat
+¦   ¦   ¦   ¦           mipmap-hdpi_ic_launcher.png.flat
+¦   ¦   ¦   ¦           mipmap-mdpi_ic_launcher.png.flat
+¦   ¦   ¦   ¦           mipmap-xhdpi_ic_launcher.png.flat
+¦   ¦   ¦   ¦           mipmap-xxhdpi_ic_launcher.png.flat
+¦   ¦   ¦   ¦           mipmap-xxxhdpi_ic_launcher.png.flat
+¦   ¦   ¦   ¦           values-af_values-af.arsc.flat
+¦   ¦   ¦   ¦           values-am_values-am.arsc.flat
+¦   ¦   ¦   ¦           values-ar_values-ar.arsc.flat
+¦   ¦   ¦   ¦           values-as_values-as.arsc.flat
+¦   ¦   ¦   ¦           values-az_values-az.arsc.flat
+¦   ¦   ¦   ¦           values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+¦   ¦   ¦   ¦           values-be_values-be.arsc.flat
+¦   ¦   ¦   ¦           values-bg_values-bg.arsc.flat
+¦   ¦   ¦   ¦           values-bn_values-bn.arsc.flat
+¦   ¦   ¦   ¦           values-bs_values-bs.arsc.flat
+¦   ¦   ¦   ¦           values-ca_values-ca.arsc.flat
+¦   ¦   ¦   ¦           values-cs_values-cs.arsc.flat
+¦   ¦   ¦   ¦           values-da_values-da.arsc.flat
+¦   ¦   ¦   ¦           values-de_values-de.arsc.flat
+¦   ¦   ¦   ¦           values-el_values-el.arsc.flat
+¦   ¦   ¦   ¦           values-en-rAU_values-en-rAU.arsc.flat
+¦   ¦   ¦   ¦           values-en-rCA_values-en-rCA.arsc.flat
+¦   ¦   ¦   ¦           values-en-rGB_values-en-rGB.arsc.flat
+¦   ¦   ¦   ¦           values-en-rIN_values-en-rIN.arsc.flat
+¦   ¦   ¦   ¦           values-en-rXC_values-en-rXC.arsc.flat
+¦   ¦   ¦   ¦           values-es-rUS_values-es-rUS.arsc.flat
+¦   ¦   ¦   ¦           values-es_values-es.arsc.flat
+¦   ¦   ¦   ¦           values-et_values-et.arsc.flat
+¦   ¦   ¦   ¦           values-eu_values-eu.arsc.flat
+¦   ¦   ¦   ¦           values-fa_values-fa.arsc.flat
+¦   ¦   ¦   ¦           values-fi_values-fi.arsc.flat
+¦   ¦   ¦   ¦           values-fr-rCA_values-fr-rCA.arsc.flat
+¦   ¦   ¦   ¦           values-fr_values-fr.arsc.flat
+¦   ¦   ¦   ¦           values-gl_values-gl.arsc.flat
+¦   ¦   ¦   ¦           values-gu_values-gu.arsc.flat
+¦   ¦   ¦   ¦           values-hi_values-hi.arsc.flat
+¦   ¦   ¦   ¦           values-hr_values-hr.arsc.flat
+¦   ¦   ¦   ¦           values-hu_values-hu.arsc.flat
+¦   ¦   ¦   ¦           values-hy_values-hy.arsc.flat
+¦   ¦   ¦   ¦           values-in_values-in.arsc.flat
+¦   ¦   ¦   ¦           values-is_values-is.arsc.flat
+¦   ¦   ¦   ¦           values-it_values-it.arsc.flat
+¦   ¦   ¦   ¦           values-iw_values-iw.arsc.flat
+¦   ¦   ¦   ¦           values-ja_values-ja.arsc.flat
+¦   ¦   ¦   ¦           values-ka_values-ka.arsc.flat
+¦   ¦   ¦   ¦           values-kk_values-kk.arsc.flat
+¦   ¦   ¦   ¦           values-km_values-km.arsc.flat
+¦   ¦   ¦   ¦           values-kn_values-kn.arsc.flat
+¦   ¦   ¦   ¦           values-ko_values-ko.arsc.flat
+¦   ¦   ¦   ¦           values-ky_values-ky.arsc.flat
+¦   ¦   ¦   ¦           values-lo_values-lo.arsc.flat
+¦   ¦   ¦   ¦           values-lt_values-lt.arsc.flat
+¦   ¦   ¦   ¦           values-lv_values-lv.arsc.flat
+¦   ¦   ¦   ¦           values-mk_values-mk.arsc.flat
+¦   ¦   ¦   ¦           values-ml_values-ml.arsc.flat
+¦   ¦   ¦   ¦           values-mn_values-mn.arsc.flat
+¦   ¦   ¦   ¦           values-mr_values-mr.arsc.flat
+¦   ¦   ¦   ¦           values-ms_values-ms.arsc.flat
+¦   ¦   ¦   ¦           values-my_values-my.arsc.flat
+¦   ¦   ¦   ¦           values-nb_values-nb.arsc.flat
+¦   ¦   ¦   ¦           values-ne_values-ne.arsc.flat
+¦   ¦   ¦   ¦           values-night-v8_values-night-v8.arsc.flat
+¦   ¦   ¦   ¦           values-nl_values-nl.arsc.flat
+¦   ¦   ¦   ¦           values-or_values-or.arsc.flat
+¦   ¦   ¦   ¦           values-pa_values-pa.arsc.flat
+¦   ¦   ¦   ¦           values-pl_values-pl.arsc.flat
+¦   ¦   ¦   ¦           values-pt-rBR_values-pt-rBR.arsc.flat
+¦   ¦   ¦   ¦           values-pt-rPT_values-pt-rPT.arsc.flat
+¦   ¦   ¦   ¦           values-pt_values-pt.arsc.flat
+¦   ¦   ¦   ¦           values-ro_values-ro.arsc.flat
+¦   ¦   ¦   ¦           values-ru_values-ru.arsc.flat
+¦   ¦   ¦   ¦           values-si_values-si.arsc.flat
+¦   ¦   ¦   ¦           values-sk_values-sk.arsc.flat
+¦   ¦   ¦   ¦           values-sl_values-sl.arsc.flat
+¦   ¦   ¦   ¦           values-sq_values-sq.arsc.flat
+¦   ¦   ¦   ¦           values-sr_values-sr.arsc.flat
+¦   ¦   ¦   ¦           values-sv_values-sv.arsc.flat
+¦   ¦   ¦   ¦           values-sw_values-sw.arsc.flat
+¦   ¦   ¦   ¦           values-ta_values-ta.arsc.flat
+¦   ¦   ¦   ¦           values-te_values-te.arsc.flat
+¦   ¦   ¦   ¦           values-th_values-th.arsc.flat
+¦   ¦   ¦   ¦           values-tl_values-tl.arsc.flat
+¦   ¦   ¦   ¦           values-tr_values-tr.arsc.flat
+¦   ¦   ¦   ¦           values-uk_values-uk.arsc.flat
+¦   ¦   ¦   ¦           values-ur_values-ur.arsc.flat
+¦   ¦   ¦   ¦           values-uz_values-uz.arsc.flat
+¦   ¦   ¦   ¦           values-v21_values-v21.arsc.flat
+¦   ¦   ¦   ¦           values-vi_values-vi.arsc.flat
+¦   ¦   ¦   ¦           values-watch-v20_values-watch-v20.arsc.flat
+¦   ¦   ¦   ¦           values-zh-rCN_values-zh-rCN.arsc.flat
+¦   ¦   ¦   ¦           values-zh-rHK_values-zh-rHK.arsc.flat
+¦   ¦   ¦   ¦           values-zh-rTW_values-zh-rTW.arsc.flat
+¦   ¦   ¦   ¦           values-zu_values-zu.arsc.flat
+¦   ¦   ¦   ¦           values_values.arsc.flat
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_res_blame_folder
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---multi-v2
+¦   ¦   ¦   ¦           ¦       debug.json
+¦   ¦   ¦   ¦           ¦       values-af.json
+¦   ¦   ¦   ¦           ¦       values-am.json
+¦   ¦   ¦   ¦           ¦       values-ar.json
+¦   ¦   ¦   ¦           ¦       values-as.json
+¦   ¦   ¦   ¦           ¦       values-az.json
+¦   ¦   ¦   ¦           ¦       values-b+sr+Latn.json
+¦   ¦   ¦   ¦           ¦       values-be.json
+¦   ¦   ¦   ¦           ¦       values-bg.json
+¦   ¦   ¦   ¦           ¦       values-bn.json
+¦   ¦   ¦   ¦           ¦       values-bs.json
+¦   ¦   ¦   ¦           ¦       values-ca.json
+¦   ¦   ¦   ¦           ¦       values-cs.json
+¦   ¦   ¦   ¦           ¦       values-da.json
+¦   ¦   ¦   ¦           ¦       values-de.json
+¦   ¦   ¦   ¦           ¦       values-el.json
+¦   ¦   ¦   ¦           ¦       values-en-rAU.json
+¦   ¦   ¦   ¦           ¦       values-en-rCA.json
+¦   ¦   ¦   ¦           ¦       values-en-rGB.json
+¦   ¦   ¦   ¦           ¦       values-en-rIN.json
+¦   ¦   ¦   ¦           ¦       values-en-rXC.json
+¦   ¦   ¦   ¦           ¦       values-es-rUS.json
+¦   ¦   ¦   ¦           ¦       values-es.json
+¦   ¦   ¦   ¦           ¦       values-et.json
+¦   ¦   ¦   ¦           ¦       values-eu.json
+¦   ¦   ¦   ¦           ¦       values-fa.json
+¦   ¦   ¦   ¦           ¦       values-fi.json
+¦   ¦   ¦   ¦           ¦       values-fr-rCA.json
+¦   ¦   ¦   ¦           ¦       values-fr.json
+¦   ¦   ¦   ¦           ¦       values-gl.json
+¦   ¦   ¦   ¦           ¦       values-gu.json
+¦   ¦   ¦   ¦           ¦       values-hi.json
+¦   ¦   ¦   ¦           ¦       values-hr.json
+¦   ¦   ¦   ¦           ¦       values-hu.json
+¦   ¦   ¦   ¦           ¦       values-hy.json
+¦   ¦   ¦   ¦           ¦       values-in.json
+¦   ¦   ¦   ¦           ¦       values-is.json
+¦   ¦   ¦   ¦           ¦       values-it.json
+¦   ¦   ¦   ¦           ¦       values-iw.json
+¦   ¦   ¦   ¦           ¦       values-ja.json
+¦   ¦   ¦   ¦           ¦       values-ka.json
+¦   ¦   ¦   ¦           ¦       values-kk.json
+¦   ¦   ¦   ¦           ¦       values-km.json
+¦   ¦   ¦   ¦           ¦       values-kn.json
+¦   ¦   ¦   ¦           ¦       values-ko.json
+¦   ¦   ¦   ¦           ¦       values-ky.json
+¦   ¦   ¦   ¦           ¦       values-lo.json
+¦   ¦   ¦   ¦           ¦       values-lt.json
+¦   ¦   ¦   ¦           ¦       values-lv.json
+¦   ¦   ¦   ¦           ¦       values-mk.json
+¦   ¦   ¦   ¦           ¦       values-ml.json
+¦   ¦   ¦   ¦           ¦       values-mn.json
+¦   ¦   ¦   ¦           ¦       values-mr.json
+¦   ¦   ¦   ¦           ¦       values-ms.json
+¦   ¦   ¦   ¦           ¦       values-my.json
+¦   ¦   ¦   ¦           ¦       values-nb.json
+¦   ¦   ¦   ¦           ¦       values-ne.json
+¦   ¦   ¦   ¦           ¦       values-night-v8.json
+¦   ¦   ¦   ¦           ¦       values-nl.json
+¦   ¦   ¦   ¦           ¦       values-or.json
+¦   ¦   ¦   ¦           ¦       values-pa.json
+¦   ¦   ¦   ¦           ¦       values-pl.json
+¦   ¦   ¦   ¦           ¦       values-pt-rBR.json
+¦   ¦   ¦   ¦           ¦       values-pt-rPT.json
+¦   ¦   ¦   ¦           ¦       values-pt.json
+¦   ¦   ¦   ¦           ¦       values-ro.json
+¦   ¦   ¦   ¦           ¦       values-ru.json
+¦   ¦   ¦   ¦           ¦       values-si.json
+¦   ¦   ¦   ¦           ¦       values-sk.json
+¦   ¦   ¦   ¦           ¦       values-sl.json
+¦   ¦   ¦   ¦           ¦       values-sq.json
+¦   ¦   ¦   ¦           ¦       values-sr.json
+¦   ¦   ¦   ¦           ¦       values-sv.json
+¦   ¦   ¦   ¦           ¦       values-sw.json
+¦   ¦   ¦   ¦           ¦       values-ta.json
+¦   ¦   ¦   ¦           ¦       values-te.json
+¦   ¦   ¦   ¦           ¦       values-th.json
+¦   ¦   ¦   ¦           ¦       values-tl.json
+¦   ¦   ¦   ¦           ¦       values-tr.json
+¦   ¦   ¦   ¦           ¦       values-uk.json
+¦   ¦   ¦   ¦           ¦       values-ur.json
+¦   ¦   ¦   ¦           ¦       values-uz.json
+¦   ¦   ¦   ¦           ¦       values-v21.json
+¦   ¦   ¦   ¦           ¦       values-vi.json
+¦   ¦   ¦   ¦           ¦       values-watch-v20.json
+¦   ¦   ¦   ¦           ¦       values-zh-rCN.json
+¦   ¦   ¦   ¦           ¦       values-zh-rHK.json
+¦   ¦   ¦   ¦           ¦       values-zh-rTW.json
+¦   ¦   ¦   ¦           ¦       values-zu.json
+¦   ¦   ¦   ¦           ¦       values.json
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---single
+¦   ¦   ¦   ¦                   debug.json
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---mixed_scope_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---packaged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---drawable-v21
+¦   ¦   ¦   ¦       ¦       launch_background.xml
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mipmap-hdpi-v4
+¦   ¦   ¦   ¦       ¦       ic_launcher.png
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mipmap-mdpi-v4
+¦   ¦   ¦   ¦       ¦       ic_launcher.png
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mipmap-xhdpi-v4
+¦   ¦   ¦   ¦       ¦       ic_launcher.png
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mipmap-xxhdpi-v4
+¦   ¦   ¦   ¦       ¦       ic_launcher.png
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mipmap-xxxhdpi-v4
+¦   ¦   ¦   ¦       ¦       ic_launcher.png
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---values
+¦   ¦   ¦   ¦       ¦       values.xml
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---values-night-v8
+¦   ¦   ¦   ¦               values-night-v8.xml
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---processed_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               resources-debug.ap_
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_0.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_1.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_2.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_3.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_4.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_5.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_6.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_7.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_8.jar
+¦   ¦   ¦   ¦           ¦   02c45b0b3c69e0496b6d7237ab7986151cd601c126eb4ae892cf6ddf0d3d78d0_9.jar
+¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦           ¦   +---example
+¦   ¦   ¦   ¦           ¦       +---peer_circle
+¦   ¦   ¦   ¦           ¦               MainActivity.dex
+¦   ¦   ¦   ¦           ¦               
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                           GeneratedPluginRegistrant.dex
+¦   ¦   ¦   ¦                           
+¦   ¦   ¦   +---runtime_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---signing_config_versions
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           signing-config-versions.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---source_set_path_map
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           file-map.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---stripped_native_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   ¦               +---arm64-v8a
+¦   ¦   ¦   ¦               ¦       libflutter.so
+¦   ¦   ¦   ¦               ¦       libVkLayer_khronos_validation.so
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---x86
+¦   ¦   ¦   ¦               ¦       libflutter.so
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---x86_64
+¦   ¦   ¦   ¦                       libflutter.so
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---sub_project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦               2c7ad54b57e3bdde949f02d7d91d58afe8a0f017c1e958377ff708d9711f9bab_6.jar
+¦   ¦   ¦   ¦               2c7ad54b57e3bdde949f02d7d91d58afe8a0f017c1e958377ff708d9711f9bab_8.jar
+¦   ¦   ¦   ¦               53564bc07c1764679de1075dec06738c80e01d9542e07139f72551b09c116da2_0.jar
+¦   ¦   ¦   ¦               910a29619a38fb81dfa21a74140574a5007145745313d7fb4c7174a268ee392c_9.jar
+¦   ¦   ¦   ¦               e0989395440d6d6dd8c9bf0834bfd6eec93a851679fe7df2976cd6b2f67fbcdc_5.jar
+¦   ¦   ¦   ¦               e7541fad7c50ab213a716df90ec5cb9238808395848e478470c506d296cb65a7_1.jar
+¦   ¦   ¦   ¦               f205ae748e8d215f8c0cb79466a220a53bb9da190b9d591bd1c9ce59e1895b36_2.jar
+¦   ¦   ¦   ¦               f205ae748e8d215f8c0cb79466a220a53bb9da190b9d591bd1c9ce59e1895b36_6.jar
+¦   ¦   ¦   ¦               f205ae748e8d215f8c0cb79466a220a53bb9da190b9d591bd1c9ce59e1895b36_7.jar
+¦   ¦   ¦   ¦               f223c6c04c1f11e479d2dfb66c21280b0d4d74f5fd5c158259e1a5972b30fc17_4.jar
+¦   ¦   ¦   ¦               f865baeb5e83068816cbb370c6ff2bc933c269cac79f68469b20f1237a7a8c94_0.jar
+¦   ¦   ¦   ¦               f865baeb5e83068816cbb370c6ff2bc933c269cac79f68469b20f1237a7a8c94_8.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           package-aware-r.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---validate_signing_config
+¦   ¦   ¦       +---debug
+¦   ¦   +---kotlin
+¦   ¦   ¦   +---compileDebugKotlin
+¦   ¦   ¦       +---cacheable
+¦   ¦   ¦       ¦   ¦   last-build.bin
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---caches-jvm
+¦   ¦   ¦       ¦       +---inputs
+¦   ¦   ¦       ¦       ¦       source-to-output.tab
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.keystream
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.keystream.len
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.len
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.values.at
+¦   ¦   ¦       ¦       ¦       source-to-output.tab_i
+¦   ¦   ¦       ¦       ¦       source-to-output.tab_i.len
+¦   ¦   ¦       ¦       ¦       
+¦   ¦   ¦       ¦       +---jvm
+¦   ¦   ¦       ¦       ¦   +---kotlin
+¦   ¦   ¦       ¦       ¦           class-attributes.tab
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.keystream
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.len
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.values.at
+¦   ¦   ¦       ¦       ¦           class-attributes.tab_i
+¦   ¦   ¦       ¦       ¦           class-attributes.tab_i.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.keystream
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.values.at
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab_i
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab_i.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.keystream
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.values.at
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab_i
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab_i.len
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab.keystream
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab.len
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab.values.at
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab_i
+¦   ¦   ¦       ¦       ¦           java-sources-proto-map.tab_i.len
+¦   ¦   ¦       ¦       ¦           proto.tab
+¦   ¦   ¦       ¦       ¦           proto.tab.keystream
+¦   ¦   ¦       ¦       ¦           proto.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           proto.tab.len
+¦   ¦   ¦       ¦       ¦           proto.tab.values.at
+¦   ¦   ¦       ¦       ¦           proto.tab_i
+¦   ¦   ¦       ¦       ¦           proto.tab_i.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.keystream
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.values.at
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab_i
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab_i.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab
+¦   ¦   ¦       ¦       ¦           subtypes.tab.keystream
+¦   ¦   ¦       ¦       ¦           subtypes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab.values.at
+¦   ¦   ¦       ¦       ¦           subtypes.tab_i
+¦   ¦   ¦       ¦       ¦           subtypes.tab_i.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab
+¦   ¦   ¦       ¦       ¦           supertypes.tab.keystream
+¦   ¦   ¦       ¦       ¦           supertypes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab.values.at
+¦   ¦   ¦       ¦       ¦           supertypes.tab_i
+¦   ¦   ¦       ¦       ¦           supertypes.tab_i.len
+¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦       ¦       +---lookups
+¦   ¦   ¦       ¦               counters.tab
+¦   ¦   ¦       ¦               file-to-id.tab
+¦   ¦   ¦       ¦               file-to-id.tab.keystream
+¦   ¦   ¦       ¦               file-to-id.tab.keystream.len
+¦   ¦   ¦       ¦               file-to-id.tab.len
+¦   ¦   ¦       ¦               file-to-id.tab.values.at
+¦   ¦   ¦       ¦               file-to-id.tab_i
+¦   ¦   ¦       ¦               file-to-id.tab_i.len
+¦   ¦   ¦       ¦               id-to-file.tab
+¦   ¦   ¦       ¦               id-to-file.tab.keystream
+¦   ¦   ¦       ¦               id-to-file.tab.keystream.len
+¦   ¦   ¦       ¦               id-to-file.tab.len
+¦   ¦   ¦       ¦               id-to-file.tab.values.at
+¦   ¦   ¦       ¦               lookups.tab
+¦   ¦   ¦       ¦               lookups.tab.keystream
+¦   ¦   ¦       ¦               lookups.tab.keystream.len
+¦   ¦   ¦       ¦               lookups.tab.len
+¦   ¦   ¦       ¦               lookups.tab.values.at
+¦   ¦   ¦       ¦               lookups.tab_i
+¦   ¦   ¦       ¦               lookups.tab_i.len
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---classpath-snapshot
+¦   ¦   ¦       ¦       shrunk-classpath-snapshot.bin
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---local-state
+¦   ¦   ¦               build-history.bin
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           app-debug.apk
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---flutter-apk
+¦   ¦   ¦   ¦       app-debug.apk
+¦   ¦   ¦   ¦       app-debug.apk.sha1
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---snapshot
+¦   ¦   ¦   +---kotlin
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦       ¦   ¦   previous-compilation-data.bin
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---compileTransaction
+¦   ¦       ¦       +---backup-dir
+¦   ¦       ¦       +---stash-dir
+¦   ¦       +---kotlin-classes
+¦   ¦       ¦   +---debug
+¦   ¦       ¦       +---com
+¦   ¦       ¦       ¦   +---example
+¦   ¦       ¦       ¦       +---peer_circle
+¦   ¦       ¦       ¦               MainActivity.class
+¦   ¦       ¦       ¦               
+¦   ¦       ¦       +---META-INF
+¦   ¦       ¦               app_debug.kotlin_module
+¦   ¦       ¦               
+¦   ¦       +---packJniLibsflutterBuildDebug
+¦   ¦               MANIFEST.MF
+¦   ¦               
+¦   +---cloud_firestore
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---2e8bcecf095294f5e4651a58f8177448
+¦   ¦   ¦   ¦   ¦   results.bin
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---transformed
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦               classes.dex
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---7a8e5f8bf3487b2bae4cf41747928f48
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦   ¦   +---pngs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---resValues
+¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   +---source
+¦   ¦   ¦       +---buildConfig
+¦   ¦   ¦           +---debug
+¦   ¦   ¦               +---io
+¦   ¦   ¦                   +---flutter
+¦   ¦   ¦                       +---plugins
+¦   ¦   ¦                           +---firebase
+¦   ¦   ¦                               +---firestore
+¦   ¦   ¦                                       BuildConfig.java
+¦   ¦   ¦                                       
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---firebase
+¦   ¦   ¦   ¦                           +---firestore
+¦   ¦   ¦   ¦                               ¦   BuildConfig.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreException$1.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreException.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreExtension.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreMessageCodec$1.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreMessageCodec.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestorePlugin$1.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestorePlugin.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreRegistrar.class
+¦   ¦   ¦   ¦                               ¦   FlutterFirebaseFirestoreTransactionResult.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateQuery$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateQuery.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateQueryResponse$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateQueryResponse.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateSource.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$AggregateType.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$DocumentChangeType.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$DocumentReferenceRequest$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$DocumentReferenceRequest.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$1.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$10.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$11.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$12.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$13.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$14.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$15.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$16.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$17.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$18.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$19.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$2.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$20.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$21.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$22.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$23.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$3.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$4.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$5.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$6.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$7.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$8.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi$9.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApi.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirebaseFirestoreHostApiCodec.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirestorePigeonFirebaseApp$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FirestorePigeonFirebaseApp.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$FlutterError.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$ListenSource.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PersistenceCacheIndexManagerRequest.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentChange$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentChange.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentOption$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentOption.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentSnapshot$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonDocumentSnapshot.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonFirebaseSettings$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonFirebaseSettings.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonGetOptions$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonGetOptions.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonQueryParameters$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonQueryParameters.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonQuerySnapshot$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonQuerySnapshot.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonSnapshotMetadata$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonSnapshotMetadata.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonTransactionCommand$Builder.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonTransactionCommand.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonTransactionResult.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$PigeonTransactionType.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$Result.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$ServerTimestampBehavior.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore$Source.class
+¦   ¦   ¦   ¦                               ¦   GeneratedAndroidFirebaseFirestore.class
+¦   ¦   ¦   ¦                               ¦   
+¦   ¦   ¦   ¦                               +---streamhandler
+¦   ¦   ¦   ¦                               ¦       DocumentSnapshotsStreamHandler.class
+¦   ¦   ¦   ¦                               ¦       LoadBundleStreamHandler.class
+¦   ¦   ¦   ¦                               ¦       OnTransactionResultListener.class
+¦   ¦   ¦   ¦                               ¦       QuerySnapshotsStreamHandler.class
+¦   ¦   ¦   ¦                               ¦       SnapshotsInSyncStreamHandler.class
+¦   ¦   ¦   ¦                               ¦       TransactionStreamHandler$1.class
+¦   ¦   ¦   ¦                               ¦       TransactionStreamHandler$OnTransactionStartedListener.class
+¦   ¦   ¦   ¦                               ¦       TransactionStreamHandler.class
+¦   ¦   ¦   ¦                               ¦       
+¦   ¦   ¦   ¦                               +---utils
+¦   ¦   ¦   ¦                                       ExceptionConverter.class
+¦   ¦   ¦   ¦                                       PigeonParser$1.class
+¦   ¦   ¦   ¦                                       PigeonParser.class
+¦   ¦   ¦   ¦                                       ServerTimestampBehaviorConverter.class
+¦   ¦   ¦   ¦                                       
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-cloud_firestore.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       cloud_firestore-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---file_picker
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---f3384c19eebc16515191a45f98d1bb41
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦               +---mr
+¦   ¦   ¦   ¦                   +---flutter
+¦   ¦   ¦   ¦                       +---plugin
+¦   ¦   ¦   ¦                           +---filepicker
+¦   ¦   ¦   ¦                                   FileInfo$Builder.class
+¦   ¦   ¦   ¦                                   FileInfo.class
+¦   ¦   ¦   ¦                                   FilePickerDelegate$1.class
+¦   ¦   ¦   ¦                                   FilePickerDelegate$2.class
+¦   ¦   ¦   ¦                                   FilePickerDelegate$3.class
+¦   ¦   ¦   ¦                                   FilePickerDelegate$PermissionManager.class
+¦   ¦   ¦   ¦                                   FilePickerDelegate.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$1.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$LifeCycleObserver.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$MethodResultWrapper$1.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$MethodResultWrapper$2.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$MethodResultWrapper$3.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin$MethodResultWrapper.class
+¦   ¦   ¦   ¦                                   FilePickerPlugin.class
+¦   ¦   ¦   ¦                                   FileUtils.class
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-file_picker.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       file_picker-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---firebase_auth
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---a4f376d0c140f6b3b9e65c323a3bba27
+¦   ¦   ¦   ¦   ¦   results.bin
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---transformed
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦               classes.dex
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---f3470297c0f92958bc7538bc303e0bf2
+¦   ¦   ¦   ¦   ¦   results.bin
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---transformed
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦               classes.dex
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---f7747acf36ba88b992a721b63487408d
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦   ¦   +---pngs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---resValues
+¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   +---source
+¦   ¦   ¦       +---buildConfig
+¦   ¦   ¦           +---debug
+¦   ¦   ¦               +---io
+¦   ¦   ¦                   +---flutter
+¦   ¦   ¦                       +---plugins
+¦   ¦   ¦                           +---firebase
+¦   ¦   ¦                               +---auth
+¦   ¦   ¦                                       BuildConfig.java
+¦   ¦   ¦                                       
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---firebase
+¦   ¦   ¦   ¦                           +---auth
+¦   ¦   ¦   ¦                                   AuthStateChannelStreamHandler.class
+¦   ¦   ¦   ¦                                   BuildConfig.class
+¦   ¦   ¦   ¦                                   Constants.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseAuthPlugin.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseAuthPluginException.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseAuthRegistrar.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseAuthUser.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseMultiFactor.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseTotpMultiFactor.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseTotpSecret.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$ActionCodeInfoOperation.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$AuthPigeonFirebaseApp$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$AuthPigeonFirebaseApp.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$CanIgnoreReturnValue.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$10.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$11.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$12.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$13.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$14.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$15.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$16.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$17.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$18.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$19.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$20.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$21.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$22.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$4.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$5.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$6.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$7.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$8.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi$9.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$10.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$11.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$12.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$13.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$14.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$4.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$5.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$6.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$7.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$8.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi$9.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FirebaseAuthUserHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$FlutterError.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$GenerateInterfaces.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$GenerateInterfacesCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactoResolverHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactoResolverHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactoResolverHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpSecretHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpSecretHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorTotpSecretHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi$4.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi$5.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$MultiFactorUserHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$NullableResult.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeInfo$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeInfo.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeInfoData$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeInfoData.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeSettings$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonActionCodeSettings.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonAdditionalUserInfo$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonAdditionalUserInfo.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonAuthCredential$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonAuthCredential.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonFirebaseAuthSettings$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonFirebaseAuthSettings.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonIdTokenResult$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonIdTokenResult.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonMultiFactorInfo$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonMultiFactorInfo.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonMultiFactorSession$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonMultiFactorSession.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonPhoneMultiFactorAssertion$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonPhoneMultiFactorAssertion.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonSignInProvider$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonSignInProvider.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonTotpSecret$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonTotpSecret.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserCredential$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserCredential.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserDetails$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserDetails.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserInfo$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserInfo.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserProfile$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonUserProfile.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonVerifyPhoneNumberRequest$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$PigeonVerifyPhoneNumberRequest.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$Result.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth$VoidResult.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseAuth.class
+¦   ¦   ¦   ¦                                   IdTokenChannelStreamHandler.class
+¦   ¦   ¦   ¦                                   PhoneNumberVerificationStreamHandler$1.class
+¦   ¦   ¦   ¦                                   PhoneNumberVerificationStreamHandler$OnCredentialsListener.class
+¦   ¦   ¦   ¦                                   PhoneNumberVerificationStreamHandler.class
+¦   ¦   ¦   ¦                                   PigeonParser.class
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-firebase_auth.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       firebase_auth-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---firebase_core
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---7afc210aba69748002390ba807a425e7
+¦   ¦   ¦   ¦   ¦   results.bin
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---transformed
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦               classes.dex
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---e912b9e388366516d9714a9dd02979fb
+¦   ¦   ¦   ¦   ¦   results.bin
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---transformed
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦               classes.dex
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---e96f34b00be2882bf8bf8013929f6754
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦   ¦   +---pngs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---resValues
+¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   +---source
+¦   ¦   ¦       +---buildConfig
+¦   ¦   ¦           +---debug
+¦   ¦   ¦               +---io
+¦   ¦   ¦                   +---flutter
+¦   ¦   ¦                       +---plugins
+¦   ¦   ¦                           +---firebase
+¦   ¦   ¦                               +---core
+¦   ¦   ¦                                       BuildConfig.java
+¦   ¦   ¦                                       
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---firebase
+¦   ¦   ¦   ¦                           +---core
+¦   ¦   ¦   ¦                                   BuildConfig.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseCorePlugin.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseCoreRegistrar.class
+¦   ¦   ¦   ¦                                   FlutterFirebasePlugin.class
+¦   ¦   ¦   ¦                                   FlutterFirebasePluginRegistry.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseAppHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseAppHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseAppHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseAppHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseCoreHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseCoreHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseCoreHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseCoreHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FirebaseCoreHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$FlutterError.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$PigeonFirebaseOptions$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$PigeonFirebaseOptions.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$PigeonInitializeResponse$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$PigeonInitializeResponse.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore$Result.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseCore.class
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-firebase_core.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       firebase_core-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---firebase_storage
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---1ca42a221e918715a327e16429f09772
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦   ¦   +---pngs
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   +---resValues
+¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   +---source
+¦   ¦   ¦       +---buildConfig
+¦   ¦   ¦           +---debug
+¦   ¦   ¦               +---io
+¦   ¦   ¦                   +---flutter
+¦   ¦   ¦                       +---plugins
+¦   ¦   ¦                           +---firebase
+¦   ¦   ¦                               +---storage
+¦   ¦   ¦                                       BuildConfig.java
+¦   ¦   ¦                                       
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---firebase
+¦   ¦   ¦   ¦                           +---storage
+¦   ¦   ¦   ¦                                   BuildConfig.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseAppRegistrar.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseStorageException.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseStoragePlugin.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseStorageTask$FlutterFirebaseStorageTaskType.class
+¦   ¦   ¦   ¦                                   FlutterFirebaseStorageTask.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$1.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$10.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$11.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$12.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$13.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$14.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$15.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$16.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$17.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$18.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$19.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$2.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$3.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$4.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$5.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$6.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$7.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$8.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi$9.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApi.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FirebaseStorageHostApiCodec.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$FlutterError.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonFullMetaData$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonFullMetaData.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonListOptions$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonListOptions.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonListResult$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonListResult.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonSettableMetadata$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonSettableMetadata.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonStorageFirebaseApp$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonStorageFirebaseApp.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonStorageReference$Builder.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonStorageReference.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$PigeonStorageTaskState.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage$Result.class
+¦   ¦   ¦   ¦                                   GeneratedAndroidFirebaseStorage.class
+¦   ¦   ¦   ¦                                   TaskStateChannelStreamHandler.class
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-firebase_storage.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       firebase_storage-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---flutter_plugin_android_lifecycle
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---4ec4fc395eed4423028353f489a5d634
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---embedding
+¦   ¦   ¦   ¦                   ¦   +---engine
+¦   ¦   ¦   ¦                   ¦       +---plugins
+¦   ¦   ¦   ¦                   ¦           +---lifecycle
+¦   ¦   ¦   ¦                   ¦                   FlutterLifecycleAdapter.class
+¦   ¦   ¦   ¦                   ¦                   
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---flutter_plugin_android_lifecycle
+¦   ¦   ¦   ¦                               FlutterAndroidLifecyclePlugin.class
+¦   ¦   ¦   ¦                               
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           proguard.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-flutter_plugin_android_lifecycle.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       flutter_plugin_android_lifecycle-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---path_provider_android
+¦   ¦   +---.transforms
+¦   ¦   ¦   +---9b8db6fd6a5f1f7b257c6f3f0f750ea2
+¦   ¦   ¦       ¦   results.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---transformed
+¦   ¦   ¦           +---classes
+¦   ¦   ¦                   classes.dex
+¦   ¦   ¦                   
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aapt_friendly_merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---aapt
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---aar_libs_directory
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---libs
+¦   ¦   ¦   +---aar_main_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---aar_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           aar-metadata.properties
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_typedef_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           typedefs.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---annotations_zip
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compiled_local_resources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---compile_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---compile_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---generated_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebugAssets
+¦   ¦   ¦   ¦           merger.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---classes
+¦   ¦   ¦   ¦           +---io
+¦   ¦   ¦   ¦               +---flutter
+¦   ¦   ¦   ¦                   +---plugins
+¦   ¦   ¦   ¦                       +---pathprovider
+¦   ¦   ¦   ¦                               Messages$FlutterError.class
+¦   ¦   ¦   ¦                               Messages$PathProviderApi.class
+¦   ¦   ¦   ¦                               Messages$PigeonCodec.class
+¦   ¦   ¦   ¦                               Messages$StorageDirectory.class
+¦   ¦   ¦   ¦                               Messages.class
+¦   ¦   ¦   ¦                               PathProviderPlugin$1.class
+¦   ¦   ¦   ¦                               PathProviderPlugin.class
+¦   ¦   ¦   ¦                               StorageDirectoryMapper.class
+¦   ¦   ¦   ¦                               
+¦   ¦   ¦   +---library_and_local_jars_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---library_art_profile
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---library_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---library_jni
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---jni
+¦   ¦   ¦   +---lint_publish_jar
+¦   ¦   ¦   ¦   +---global
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           R-def.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_consumer_proguard_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           feature-path_provider_android.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           navigation.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---navigation_json_for_aar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---public_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   +---runtime_library_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           classes.jar
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦       +---debug
+¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---aar
+¦   ¦   ¦   ¦       path_provider_android-debug.aar
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦               previous-compilation-data.bin
+¦   ¦               
+¦   +---sqflite_android
+¦       +---.transforms
+¦       ¦   +---248237a4de392f8cdd74d3f633b8095a
+¦       ¦       ¦   results.bin
+¦       ¦       ¦   
+¦       ¦       +---transformed
+¦       ¦           +---classes
+¦       ¦                   classes.dex
+¦       ¦                   
+¦       +---generated
+¦       ¦   +---ap_generated_sources
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---res
+¦       ¦       +---pngs
+¦       ¦       ¦   +---debug
+¦       ¦       +---resValues
+¦       ¦           +---debug
+¦       +---intermediates
+¦       ¦   +---aapt_friendly_merged_manifests
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---aapt
+¦       ¦   ¦               AndroidManifest.xml
+¦       ¦   ¦               output-metadata.json
+¦       ¦   ¦               
+¦       ¦   +---aar_libs_directory
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---libs
+¦       ¦   +---aar_main_jar
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           classes.jar
+¦       ¦   ¦           
+¦       ¦   +---aar_metadata
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           aar-metadata.properties
+¦       ¦   ¦           
+¦       ¦   +---annotations_typedef_file
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           typedefs.txt
+¦       ¦   ¦           
+¦       ¦   +---annotations_zip
+¦       ¦   ¦   +---debug
+¦       ¦   +---annotation_processor_list
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           annotationProcessors.json
+¦       ¦   ¦           
+¦       ¦   +---compiled_local_resources
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---compile_library_classes_jar
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           classes.jar
+¦       ¦   ¦           
+¦       ¦   +---compile_r_class_jar
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           R.jar
+¦       ¦   ¦           
+¦       ¦   +---compile_symbol_list
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           R.txt
+¦       ¦   ¦           
+¦       ¦   +---data_binding_layout_info_type_package
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---generated_proguard_file
+¦       ¦   ¦   +---debug
+¦       ¦   +---incremental
+¦       ¦   ¦   +---debug
+¦       ¦   ¦   ¦   +---packageDebugResources
+¦       ¦   ¦   ¦       ¦   compile-file-map.properties
+¦       ¦   ¦   ¦       ¦   merger.xml
+¦       ¦   ¦   ¦       ¦   
+¦       ¦   ¦   ¦       +---merged.dir
+¦       ¦   ¦   ¦       +---stripped.dir
+¦       ¦   ¦   +---debug-mergeJavaRes
+¦       ¦   ¦   ¦   ¦   merge-state
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---zip-cache
+¦       ¦   ¦   +---mergeDebugJniLibFolders
+¦       ¦   ¦   ¦       merger.xml
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---mergeDebugShaders
+¦       ¦   ¦   ¦       merger.xml
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---packageDebugAssets
+¦       ¦   ¦           merger.xml
+¦       ¦   ¦           
+¦       ¦   +---javac
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---classes
+¦       ¦   ¦           +---com
+¦       ¦   ¦               +---tekartik
+¦       ¦   ¦                   +---sqflite
+¦       ¦   ¦                       ¦   Constant.class
+¦       ¦   ¦                       ¦   Database$1.class
+¦       ¦   ¦                       ¦   Database.class
+¦       ¦   ¦                       ¦   DatabaseDelegate.class
+¦       ¦   ¦                       ¦   DatabaseTask.class
+¦       ¦   ¦                       ¦   DatabaseWorker.class
+¦       ¦   ¦                       ¦   DatabaseWorkerPool$1.class
+¦       ¦   ¦                       ¦   DatabaseWorkerPool.class
+¦       ¦   ¦                       ¦   DatabaseWorkerPoolImpl.class
+¦       ¦   ¦                       ¦   LocaleUtils.class
+¦       ¦   ¦                       ¦   LogLevel.class
+¦       ¦   ¦                       ¦   SingleDatabaseWorkerPoolImpl.class
+¦       ¦   ¦                       ¦   SqfliteCursor.class
+¦       ¦   ¦                       ¦   SqflitePlugin$1.class
+¦       ¦   ¦                       ¦   SqflitePlugin$2.class
+¦       ¦   ¦                       ¦   SqflitePlugin.class
+¦       ¦   ¦                       ¦   SqlCommand.class
+¦       ¦   ¦                       ¦   Utils.class
+¦       ¦   ¦                       ¦   
+¦       ¦   ¦                       +---dev
+¦       ¦   ¦                       ¦       Debug.class
+¦       ¦   ¦                       ¦       
+¦       ¦   ¦                       +---operation
+¦       ¦   ¦                               BaseOperation.class
+¦       ¦   ¦                               BaseReadOperation.class
+¦       ¦   ¦                               BatchOperation$BatchOperationResult.class
+¦       ¦   ¦                               BatchOperation.class
+¦       ¦   ¦                               MethodCallOperation$Result.class
+¦       ¦   ¦                               MethodCallOperation.class
+¦       ¦   ¦                               Operation.class
+¦       ¦   ¦                               OperationResult.class
+¦       ¦   ¦                               OperationRunnable.class
+¦       ¦   ¦                               QueuedOperation.class
+¦       ¦   ¦                               SqlErrorInfo.class
+¦       ¦   ¦                               
+¦       ¦   +---library_and_local_jars_jni
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---jni
+¦       ¦   +---library_art_profile
+¦       ¦   ¦   +---debug
+¦       ¦   +---library_assets
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---library_jni
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---jni
+¦       ¦   +---lint_publish_jar
+¦       ¦   ¦   +---global
+¦       ¦   +---local_only_symbol_list
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           R-def.txt
+¦       ¦   ¦           
+¦       ¦   +---manifest_merge_blame_file
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           manifest-merger-blame-debug-report.txt
+¦       ¦   ¦           
+¦       ¦   +---merged_consumer_proguard_file
+¦       ¦   ¦   +---debug
+¦       ¦   +---merged_java_res
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           feature-sqflite_android.jar
+¦       ¦   ¦           
+¦       ¦   +---merged_jni_libs
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---merged_manifest
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           AndroidManifest.xml
+¦       ¦   ¦           
+¦       ¦   +---merged_shaders
+¦       ¦   ¦   +---debug
+¦       ¦   ¦       +---out
+¦       ¦   +---navigation_json
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           navigation.json
+¦       ¦   ¦           
+¦       ¦   +---navigation_json_for_aar
+¦       ¦   ¦   +---debug
+¦       ¦   +---packaged_res
+¦       ¦   ¦   +---debug
+¦       ¦   +---public_res
+¦       ¦   ¦   +---debug
+¦       ¦   +---runtime_library_classes_jar
+¦       ¦   ¦   +---debug
+¦       ¦   ¦           classes.jar
+¦       ¦   ¦           
+¦       ¦   +---symbol_list_with_package_name
+¦       ¦       +---debug
+¦       ¦               package-aware-r.txt
+¦       ¦               
+¦       +---outputs
+¦       ¦   +---aar
+¦       ¦   ¦       sqflite_android-debug.aar
+¦       ¦   ¦       
+¦       ¦   +---logs
+¦       ¦           manifest-merger-debug-report.txt
+¦       ¦           
+¦       +---tmp
+¦           +---compileDebugJavaWithJavac
+¦                   previous-compilation-data.bin
+¦                   
++---ios
+¦   ¦   .gitignore
+¦   ¦   
+¦   +---Flutter
+¦   ¦       AppFrameworkInfo.plist
+¦   ¦       Debug.xcconfig
+¦   ¦       flutter_export_environment.sh
+¦   ¦       Generated.xcconfig
+¦   ¦       Release.xcconfig
+¦   ¦       
+¦   +---Runner
+¦   ¦   ¦   AppDelegate.swift
+¦   ¦   ¦   GeneratedPluginRegistrant.h
+¦   ¦   ¦   GeneratedPluginRegistrant.m
+¦   ¦   ¦   Info.plist
+¦   ¦   ¦   Runner-Bridging-Header.h
+¦   ¦   ¦   
+¦   ¦   +---Assets.xcassets
+¦   ¦   ¦   +---AppIcon.appiconset
+¦   ¦   ¦   ¦       Contents.json
+¦   ¦   ¦   ¦       Icon-App-1024x1024@1x.png
+¦   ¦   ¦   ¦       Icon-App-20x20@1x.png
+¦   ¦   ¦   ¦       Icon-App-20x20@2x.png
+¦   ¦   ¦   ¦       Icon-App-20x20@3x.png
+¦   ¦   ¦   ¦       Icon-App-29x29@1x.png
+¦   ¦   ¦   ¦       Icon-App-29x29@2x.png
+¦   ¦   ¦   ¦       Icon-App-29x29@3x.png
+¦   ¦   ¦   ¦       Icon-App-40x40@1x.png
+¦   ¦   ¦   ¦       Icon-App-40x40@2x.png
+¦   ¦   ¦   ¦       Icon-App-40x40@3x.png
+¦   ¦   ¦   ¦       Icon-App-60x60@2x.png
+¦   ¦   ¦   ¦       Icon-App-60x60@3x.png
+¦   ¦   ¦   ¦       Icon-App-76x76@1x.png
+¦   ¦   ¦   ¦       Icon-App-76x76@2x.png
+¦   ¦   ¦   ¦       Icon-App-83.5x83.5@2x.png
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---LaunchImage.imageset
+¦   ¦   ¦           Contents.json
+¦   ¦   ¦           LaunchImage.png
+¦   ¦   ¦           LaunchImage@2x.png
+¦   ¦   ¦           LaunchImage@3x.png
+¦   ¦   ¦           README.md
+¦   ¦   ¦           
+¦   ¦   +---Base.lproj
+¦   ¦           LaunchScreen.storyboard
+¦   ¦           Main.storyboard
+¦   ¦           
+¦   +---Runner.xcodeproj
+¦   ¦   ¦   project.pbxproj
+¦   ¦   ¦   
+¦   ¦   +---project.xcworkspace
+¦   ¦   ¦   ¦   contents.xcworkspacedata
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---xcshareddata
+¦   ¦   ¦           IDEWorkspaceChecks.plist
+¦   ¦   ¦           WorkspaceSettings.xcsettings
+¦   ¦   ¦           
+¦   ¦   +---xcshareddata
+¦   ¦       +---xcschemes
+¦   ¦               Runner.xcscheme
+¦   ¦               
+¦   +---Runner.xcworkspace
+¦   ¦   ¦   contents.xcworkspacedata
+¦   ¦   ¦   
+¦   ¦   +---xcshareddata
+¦   ¦           IDEWorkspaceChecks.plist
+¦   ¦           WorkspaceSettings.xcsettings
+¦   ¦           
+¦   +---RunnerTests
+¦           RunnerTests.swift
+¦           
++---lib
+¦   ¦   app.dart
+¦   ¦   main.dart
+¦   ¦   structure.txt
+¦   ¦   
+¦   +---config
+¦   ¦       firebase_options.dart
+¦   ¦       
+¦   +---features
+¦       +---auth
+¦       ¦   +---data
+¦       ¦   ¦       firebase_auth_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---domain
+¦       ¦   ¦   +---entities
+¦       ¦   ¦   ¦       app_user.dart
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---repos
+¦       ¦   ¦           auth_repo.dart
+¦       ¦   ¦           
+¦       ¦   +---presentation
+¦       ¦       +---components
+¦       ¦       ¦       mt_textbox.dart
+¦       ¦       ¦       my_button.dart
+¦       ¦       ¦       
+¦       ¦       +---cubits
+¦       ¦       ¦       auth_cubit.dart
+¦       ¦       ¦       auth_states.dart
+¦       ¦       ¦       
+¦       ¦       +---pages
+¦       ¦               auth_pages.dart
+¦       ¦               login_page.dart
+¦       ¦               regessrter_page.dart
+¦       ¦               
+¦       +---Home
+¦       ¦   +---presentation
+¦       ¦       +---components
+¦       ¦       ¦       drawer_tiles.dart
+¦       ¦       ¦       my_drawer.dart
+¦       ¦       ¦       
+¦       ¦       +---pages
+¦       ¦               home_page.dart
+¦       ¦               
+¦       +---post
+¦       ¦   +---data
+¦       ¦   ¦       firebase_post_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---domain
+¦       ¦   ¦   ¦   comment.dart
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---entities
+¦       ¦   ¦   ¦       post.dart
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---repos
+¦       ¦   ¦           post_repo.dart
+¦       ¦   ¦           
+¦       ¦   +---presentation
+¦       ¦       +---components
+¦       ¦       ¦       post_tile.dart
+¦       ¦       ¦       
+¦       ¦       +---cubits
+¦       ¦       ¦       post_cubits.dart
+¦       ¦       ¦       post_states.dart
+¦       ¦       ¦       
+¦       ¦       +---pages
+¦       ¦               upload_post_page.dart
+¦       ¦               
+¦       +---profile
+¦       ¦   +---data
+¦       ¦   ¦       firebase_profile_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---domain
+¦       ¦   ¦   +---entities
+¦       ¦   ¦   ¦       profile_user.dart
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---repos
+¦       ¦   ¦           profile_repo.dart
+¦       ¦   ¦           
+¦       ¦   +---presentation
+¦       ¦       ¦   follow_button.dart
+¦       ¦       ¦   
+¦       ¦       +---components
+¦       ¦       ¦       bio_box.dart
+¦       ¦       ¦       
+¦       ¦       +---cubits
+¦       ¦       ¦       profile_states.dart
+¦       ¦       ¦       progile_cubit.dart
+¦       ¦       ¦       
+¦       ¦       +---pages
+¦       ¦               edit_profile_page.dart
+¦       ¦               profile_page.dart
+¦       ¦               
+¦       +---search
+¦       ¦   +---data
+¦       ¦   ¦       firebase_search_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---domain
+¦       ¦   ¦       search_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---presentation
+¦       ¦       +---cubits
+¦       ¦       ¦       search_cubit.dart
+¦       ¦       ¦       search_states.dart
+¦       ¦       ¦       
+¦       ¦       +---pages
+¦       ¦               search_page.dart
+¦       ¦               
+¦       +---storage
+¦       ¦   +---data
+¦       ¦   ¦       firebase_storage_repo.dart
+¦       ¦   ¦       
+¦       ¦   +---domain
+¦       ¦           storage_repo.dart
+¦       ¦           
+¦       +---theams
+¦               light_mode.dart
+¦               
++---linux
+¦   ¦   .gitignore
+¦   ¦   CMakeLists.txt
+¦   ¦   main.cc
+¦   ¦   my_application.cc
+¦   ¦   my_application.h
+¦   ¦   
+¦   +---flutter
+¦           CMakeLists.txt
+¦           generated_plugins.cmake
+¦           generated_plugin_registrant.cc
+¦           generated_plugin_registrant.h
+¦           
++---macos
+¦   ¦   .gitignore
+¦   ¦   
+¦   +---Flutter
+¦   ¦   ¦   Flutter-Debug.xcconfig
+¦   ¦   ¦   Flutter-Release.xcconfig
+¦   ¦   ¦   GeneratedPluginRegistrant.swift
+¦   ¦   ¦   
+¦   ¦   +---ephemeral
+¦   ¦           Flutter-Generated.xcconfig
+¦   ¦           flutter_export_environment.sh
+¦   ¦           
+¦   +---Runner
+¦   ¦   ¦   AppDelegate.swift
+¦   ¦   ¦   DebugProfile.entitlements
+¦   ¦   ¦   Info.plist
+¦   ¦   ¦   MainFlutterWindow.swift
+¦   ¦   ¦   Release.entitlements
+¦   ¦   ¦   
+¦   ¦   +---Assets.xcassets
+¦   ¦   ¦   +---AppIcon.appiconset
+¦   ¦   ¦           app_icon_1024.png
+¦   ¦   ¦           app_icon_128.png
+¦   ¦   ¦           app_icon_16.png
+¦   ¦   ¦           app_icon_256.png
+¦   ¦   ¦           app_icon_32.png
+¦   ¦   ¦           app_icon_512.png
+¦   ¦   ¦           app_icon_64.png
+¦   ¦   ¦           Contents.json
+¦   ¦   ¦           
+¦   ¦   +---Base.lproj
+¦   ¦   ¦       MainMenu.xib
+¦   ¦   ¦       
+¦   ¦   +---Configs
+¦   ¦           AppInfo.xcconfig
+¦   ¦           Debug.xcconfig
+¦   ¦           Release.xcconfig
+¦   ¦           Warnings.xcconfig
+¦   ¦           
+¦   +---Runner.xcodeproj
+¦   ¦   ¦   project.pbxproj
+¦   ¦   ¦   
+¦   ¦   +---project.xcworkspace
+¦   ¦   ¦   +---xcshareddata
+¦   ¦   ¦           IDEWorkspaceChecks.plist
+¦   ¦   ¦           
+¦   ¦   +---xcshareddata
+¦   ¦       +---xcschemes
+¦   ¦               Runner.xcscheme
+¦   ¦               
+¦   +---Runner.xcworkspace
+¦   ¦   ¦   contents.xcworkspacedata
+¦   ¦   ¦   
+¦   ¦   +---xcshareddata
+¦   ¦           IDEWorkspaceChecks.plist
+¦   ¦           
+¦   +---RunnerTests
+¦           RunnerTests.swift
+¦           
++---test
+¦       widget_test.dart
+¦       
++---web
+¦   ¦   favicon.png
+¦   ¦   index.html
+¦   ¦   manifest.json
+¦   ¦   
+¦   +---icons
+¦           Icon-192.png
+¦           Icon-512.png
+¦           Icon-maskable-192.png
+¦           Icon-maskable-512.png
+¦           
++---windows
+    ¦   .gitignore
+    ¦   CMakeLists.txt
+    ¦   
+    +---flutter
+    ¦   ¦   CMakeLists.txt
+    ¦   ¦   generated_plugins.cmake
+    ¦   ¦   generated_plugin_registrant.cc
+    ¦   ¦   generated_plugin_registrant.h
+    ¦   ¦   
+    ¦   +---ephemeral
+    ¦       ¦   generated_config.cmake
+    ¦       ¦   
+    ¦       +---.plugin_symlinks
+    +---runner
+        ¦   CMakeLists.txt
+        ¦   flutter_window.cpp
+        ¦   flutter_window.h
+        ¦   main.cpp
+        ¦   resource.h
+        ¦   runner.exe.manifest
+        ¦   Runner.rc
+        ¦   utils.cpp
+        ¦   utils.h
+        ¦   win32_window.cpp
+        ¦   win32_window.h
+        ¦   
+        +---resources
+                app_icon.ico
+                

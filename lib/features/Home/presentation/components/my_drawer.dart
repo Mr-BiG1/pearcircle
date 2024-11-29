@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:peer_circle/features/Home/presentation/components/drawer_tiles.dart';
 import 'package:peer_circle/features/auth/presentation/cubits/auth_cubit.dart';
 import 'package:peer_circle/features/profile/presentation/pages/profile_page.dart';
+import 'package:peer_circle/features/search/presentation/pages/search_page.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
@@ -62,7 +63,7 @@ class MyDrawer extends StatelessWidget {
               MyDrawerTiles(
                 title: "S E A R C H",
                 icon: Icons.search,
-                onTap: () {},
+                onTap: () => Navigator.push(context,MaterialPageRoute(builder: (context)=> const SearchPage())),
               ),
 
               // settings tile
