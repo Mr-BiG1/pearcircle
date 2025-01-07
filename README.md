@@ -95,6 +95,3 @@ If you discover a vulnerability, please report it via GitHub Issues.
 ### License 📝
 This project is licensed under the MIT - - see the [LICENSE](LICENSE).
 
-## Acknowledgements 🙏
-- Flutter
-- Firebase
