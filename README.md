@@ -71,6 +71,7 @@ Copy code
 5.  Run the app:
 bash
 Copy code
+
  `flutter run`
 
 ### Project Structure
