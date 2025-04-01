@@ -4,7 +4,7 @@ import 'package:peer_circle/app.dart';
 import 'package:peer_circle/config/firebase_options.dart';
 
 void main() async {
-  // firebase setup.
+  // firebase setup
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(MyApp());
